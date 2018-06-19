@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/proc-armv
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/proc-armv/ptrace.h
+END
+processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/proc-armv/processor.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/proc-armv/system.h
+END
+domain.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/proc-armv/domain.h
+END

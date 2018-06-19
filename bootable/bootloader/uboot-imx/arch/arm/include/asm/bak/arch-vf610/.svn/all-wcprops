@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-vf610
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-vf610/clock.h
+END
+imx-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-vf610/imx-regs.h
+END
+crm_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-vf610/crm_regs.h
+END
+iomux-vf610.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-vf610/iomux-vf610.h
+END

@@ -1,0 +1,1 @@
+cmd_drivers/usb/chipidea/ci_hdrc.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/usb/chipidea/ci_hdrc.o drivers/usb/chipidea/core.o drivers/usb/chipidea/otg.o drivers/usb/chipidea/debug.o drivers/usb/chipidea/udc.o drivers/usb/chipidea/host.o drivers/usb/chipidea/otg_fsm.o 

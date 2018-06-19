@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/Kconfig
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/fs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/Makefile
+END

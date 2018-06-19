@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm
+END
+platdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/platdata.h
+END
+uclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/uclass.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/util.h
+END
+lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/lists.h
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/device.h
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/test.h
+END
+root.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/root.h
+END
+uclass-id.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/uclass-id.h
+END
+uclass-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/uclass-internal.h
+END
+ut.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/ut.h
+END
+device-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/dm/device-internal.h
+END

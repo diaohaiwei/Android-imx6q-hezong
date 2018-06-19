@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/nds32/cpu/n1213/ag102
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/nds32/cpu/n1213/ag102/cpu.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/nds32/cpu/n1213/ag102/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/nds32/cpu/n1213/ag102/lowlevel_init.S
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/nds32/cpu/n1213/ag102/timer.c
+END
+watchdog.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/nds32/cpu/n1213/ag102/watchdog.S
+END

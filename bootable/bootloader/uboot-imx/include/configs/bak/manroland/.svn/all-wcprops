@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/configs/bak/manroland
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/configs/bak/manroland/common.h
+END
+mpc5200-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/configs/bak/manroland/mpc5200-common.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman
+END
+patman.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/patman.py
+END
+gitutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/gitutil.py
+END
+get_maintainer.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/get_maintainer.py
+END
+commit.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/commit.py
+END
+patman
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/patman
+END
+series.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/series.py
+END
+checkpatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/checkpatch.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/settings.py
+END
+project.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/project.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/README
+END
+terminal.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/terminal.py
+END
+patchstream.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/patchstream.py
+END
+cros_subprocess.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/cros_subprocess.py
+END
+command.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/command.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/.gitignore
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/patman/test.py
+END

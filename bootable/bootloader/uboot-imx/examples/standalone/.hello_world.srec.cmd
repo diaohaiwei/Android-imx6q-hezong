@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world.srec := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-objcopy -O srec  examples/standalone/hello_world examples/standalone/hello_world.srec

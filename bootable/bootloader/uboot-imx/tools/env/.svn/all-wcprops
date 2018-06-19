@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env
+END
+fw_env.config
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/fw_env.config
+END
+aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/aes.c
+END
+fw_env_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/fw_env_main.c
+END
+fw_env.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/fw_env.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/README
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/crc32.c
+END
+env_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/env_attr.c
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/.gitignore
+END
+ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/ctype.c
+END
+env_flags.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/env_flags.c
+END
+fw_env.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/fw_env.c
+END
+linux_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/tools/env/linux_string.c
+END

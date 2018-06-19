@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/doc/SPL
+END
+README.am335x-network
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/doc/SPL/README.am335x-network
+END
+README.omap3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/doc/SPL/README.omap3
+END

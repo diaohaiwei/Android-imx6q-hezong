@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/toradex/colibri_t30
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/toradex/colibri_t30/MAINTAINERS
+END
+colibri_t30.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/toradex/colibri_t30/colibri_t30.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/toradex/colibri_t30/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/toradex/colibri_t30/Kconfig
+END
+pinmux-config-colibri_t30.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/toradex/colibri_t30/pinmux-config-colibri_t30.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr
+END
+sh7785lcr.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr/sh7785lcr.c
+END
+selfcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr/selfcheck.c
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr/MAINTAINERS
+END
+rtl8169_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr/rtl8169_mac.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr/lowlevel_init.S
+END
+rtl8169.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr/rtl8169.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr/Kconfig
+END
+README.sh7785lcr
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/renesas/sh7785lcr/README.sh7785lcr
+END

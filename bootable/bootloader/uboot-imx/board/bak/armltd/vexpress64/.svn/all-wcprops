@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/armltd/vexpress64
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/armltd/vexpress64/MAINTAINERS
+END
+vexpress64.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/armltd/vexpress64/vexpress64.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/armltd/vexpress64/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/armltd/vexpress64/Kconfig
+END

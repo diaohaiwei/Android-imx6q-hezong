@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/uart.h
+END
+mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/mmc.h
+END
+apb_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/apb_misc.h
+END
+pmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/pmc.h
+END
+gp_padctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/gp_padctrl.h
+END
+pinmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/pinmux.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/timer.h
+END
+funcmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/funcmux.h
+END
+xusb-padctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/xusb-padctl.h
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/board.h
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/usb.h
+END
+scu.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/scu.h
+END
+warmboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/warmboot.h
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/clock.h
+END
+powergate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/powergate.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/gpio.h
+END
+tegra_mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/tegra_mmc.h
+END
+tegra_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/tegra_i2c.h
+END
+ap.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/ap.h
+END
+sys_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/sys_proto.h
+END
+clk_rst.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/clk_rst.h
+END
+tegra.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/tegra.h
+END
+fuse.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra/fuse.h
+END

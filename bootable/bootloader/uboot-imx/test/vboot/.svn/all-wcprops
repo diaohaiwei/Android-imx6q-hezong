@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/test/vboot
+END
+vboot_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/test/vboot/vboot_test.sh
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/test/vboot/.gitignore
+END
+sandbox-kernel.dts
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/test/vboot/sandbox-kernel.dts
+END
+sign-images-sha256.its
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/test/vboot/sign-images-sha256.its
+END
+sandbox-u-boot.dts
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/test/vboot/sandbox-u-boot.dts
+END
+sign-configs-sha256.its
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/test/vboot/sign-configs-sha256.its
+END
+sign-images-sha1.its
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/test/vboot/sign-images-sha1.its
+END
+sign-configs-sha1.its
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/test/vboot/sign-configs-sha1.its
+END

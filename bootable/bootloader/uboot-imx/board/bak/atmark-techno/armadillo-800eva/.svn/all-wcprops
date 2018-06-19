@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/atmark-techno/armadillo-800eva
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/atmark-techno/armadillo-800eva/Kconfig
+END
+armadillo-800eva.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/atmark-techno/armadillo-800eva/armadillo-800eva.c
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/atmark-techno/armadillo-800eva/MAINTAINERS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/atmark-techno/armadillo-800eva/Makefile
+END

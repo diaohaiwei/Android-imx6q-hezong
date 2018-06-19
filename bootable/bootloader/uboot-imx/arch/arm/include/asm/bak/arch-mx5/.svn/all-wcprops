@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-mx5
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-mx5/clock.h
+END
+imx-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-mx5/imx-regs.h
+END
+iomux-mx53.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-mx5/iomux-mx53.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-mx5/gpio.h
+END
+crm_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-mx5/crm_regs.h
+END
+sys_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-mx5/sys_proto.h
+END
+iomux-mx51.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-mx5/iomux-mx51.h
+END

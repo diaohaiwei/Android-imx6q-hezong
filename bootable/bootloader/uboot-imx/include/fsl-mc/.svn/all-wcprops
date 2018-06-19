@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/fsl-mc
+END
+fsl_mc_sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/fsl-mc/fsl_mc_sys.h
+END
+fsl_mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/fsl-mc/fsl_mc.h
+END
+fsl_mc_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/fsl-mc/fsl_mc_cmd.h
+END
+fsl_dpmng.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/include/fsl-mc/fsl_dpmng.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/broadcom/bcm28155_ap
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/broadcom/bcm28155_ap/Kconfig
+END
+bcm28155_ap.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/broadcom/bcm28155_ap/bcm28155_ap.c
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/broadcom/bcm28155_ap/MAINTAINERS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/broadcom/bcm28155_ap/Makefile
+END

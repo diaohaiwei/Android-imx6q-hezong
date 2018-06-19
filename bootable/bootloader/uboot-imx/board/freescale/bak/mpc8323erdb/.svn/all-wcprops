@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8323erdb
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8323erdb/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8323erdb/README
+END
+mpc8323erdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8323erdb/mpc8323erdb.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8323erdb/Kconfig
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8323erdb/MAINTAINERS
+END

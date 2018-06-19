@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-at91/armv7
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-at91/armv7/cpu.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-at91/armv7/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-at91/armv7/Makefile
+END
+sama5d3_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-at91/armv7/sama5d3_devices.c
+END
+sama5d4_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-at91/armv7/sama5d4_devices.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-at91/armv7/timer.c
+END
+u-boot-spl.lds
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-at91/armv7/u-boot-spl.lds
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-at91/armv7/reset.c
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/clock.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/hardware.h
+END
+powergate.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/powergate.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/gpio.h
+END
+gp_padctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/gp_padctrl.h
+END
+mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/mc.h
+END
+pinmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/pinmux.h
+END
+pmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/pmu.h
+END
+tegra.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/tegra.h
+END
+clock-tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/clock-tables.h
+END
+funcmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/funcmux.h
+END
+flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/flow.h
+END
+sysctr.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/include/asm/bak/arch-tegra114/sysctr.h
+END

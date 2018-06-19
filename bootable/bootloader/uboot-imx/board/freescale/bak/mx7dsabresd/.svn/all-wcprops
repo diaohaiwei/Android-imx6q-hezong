@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx7dsabresd
+END
+mx7dsabresd.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx7dsabresd/mx7dsabresd.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx7dsabresd/Makefile
+END
+imximage.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx7dsabresd/imximage.cfg
+END
+imximage_TO_1_0.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx7dsabresd/imximage_TO_1_0.cfg
+END
+plugin.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx7dsabresd/plugin.S
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx7dsabresd/Kconfig
+END

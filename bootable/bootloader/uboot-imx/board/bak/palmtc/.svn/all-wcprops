@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/palmtc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/palmtc/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/palmtc/Kconfig
+END
+palmtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/palmtc/palmtc.c
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/palmtc/MAINTAINERS
+END

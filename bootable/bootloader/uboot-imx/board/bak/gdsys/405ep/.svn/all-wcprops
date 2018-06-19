@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep/io.c
+END
+iocon.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep/iocon.c
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep/MAINTAINERS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep/Makefile
+END
+dlvision-10g.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep/dlvision-10g.c
+END
+405ep.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep/405ep.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep/Kconfig
+END
+neo.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep/neo.c
+END
+405ep.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/gdsys/405ep/405ep.h
+END

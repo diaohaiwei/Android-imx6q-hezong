@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/soc_camera/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/media/platform/soc_camera/built-in.o drivers/media/platform/soc_camera/soc_camera.o drivers/media/platform/soc_camera/soc_mediabus.o drivers/media/platform/soc_camera/mx3_camera.o 

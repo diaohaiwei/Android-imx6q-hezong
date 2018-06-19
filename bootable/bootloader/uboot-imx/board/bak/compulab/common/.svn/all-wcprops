@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/compulab/common
+END
+omap3_display.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/compulab/common/omap3_display.c
+END
+omap3_smc911x.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/compulab/common/omap3_smc911x.c
+END
+eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/compulab/common/eeprom.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/compulab/common/common.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/compulab/common/Makefile
+END
+eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/compulab/common/eeprom.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/compulab/common/common.h
+END

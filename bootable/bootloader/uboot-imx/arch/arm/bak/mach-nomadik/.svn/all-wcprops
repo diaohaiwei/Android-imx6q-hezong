@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-nomadik
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-nomadik/gpio.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-nomadik/Kconfig
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-nomadik/timer.c
+END
+reset.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-nomadik/reset.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-nomadik/Makefile
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/canmb
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/canmb/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/canmb/Kconfig
+END
+canmb.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/canmb/canmb.c
+END
+mt48lc16m32s2-75.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/canmb/mt48lc16m32s2-75.h
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/canmb/MAINTAINERS
+END

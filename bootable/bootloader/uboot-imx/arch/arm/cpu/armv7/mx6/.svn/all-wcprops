@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6
+END
+soc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/7/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6/soc.c
+END
+module_fuse.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6/module_fuse.c
+END
+ddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6/ddr.c
+END
+hab.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6/hab.c
+END
+bee.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6/bee.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6/Makefile
+END
+mp.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6/mp.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/armv7/mx6/Kconfig
+END

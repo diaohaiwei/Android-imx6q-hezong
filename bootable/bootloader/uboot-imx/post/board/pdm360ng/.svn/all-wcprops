@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/post/board/pdm360ng
+END
+coproc_com.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/post/board/pdm360ng/coproc_com.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/post/board/pdm360ng/Makefile
+END

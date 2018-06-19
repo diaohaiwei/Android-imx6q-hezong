@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf561
+END
+ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf561/ports.h
+END
+def_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf561/def_local.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf561/gpio.h
+END
+portmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf561/portmux.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf561/anomaly.h
+END
+BF561_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf561/BF561_def.h
+END
+BF561_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf561/BF561_cdef.h
+END

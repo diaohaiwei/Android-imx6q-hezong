@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma
+END
+fsl_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/fsl_dma.c
+END
+keystone_nav.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/keystone_nav.c
+END
+MCD_tasks.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/MCD_tasks.c
+END
+apbh_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/apbh_dma.c
+END
+MCD_tasksInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/MCD_tasksInit.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/Makefile
+END
+MCD_dmaApi.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/MCD_dmaApi.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/Kconfig
+END
+ti-edma3.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/ti-edma3.c
+END
+keystone_nav_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/dma/keystone_nav_cfg.c
+END

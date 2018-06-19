@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8572ds
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8572ds/MAINTAINERS
+END
+ddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8572ds/ddr.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8572ds/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8572ds/README
+END
+mpc8572ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8572ds/mpc8572ds.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8572ds/Kconfig
+END
+tlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8572ds/tlb.c
+END
+law.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mpc8572ds/law.c
+END

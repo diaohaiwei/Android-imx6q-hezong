@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak
+END
+recovery.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/recovery.c
+END
+zm7300.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/zm7300.c
+END
+ics307_clk.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/ics307_clk.c
+END
+mpc85xx_sleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/mpc85xx_sleep.c
+END
+zm7300.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/zm7300.h
+END
+ics307_clk.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/ics307_clk.h
+END
+diu_ch7301.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/diu_ch7301.c
+END
+cds_via.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/cds_via.c
+END
+cmd_esbc_validate.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/cmd_esbc_validate.c
+END
+pq-mds-pib.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/pq-mds-pib.c
+END
+diu_ch7301.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/diu_ch7301.h
+END
+pq-mds-pib.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/pq-mds-pib.h
+END
+ngpixis.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/ngpixis.c
+END
+vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/vid.c
+END
+via.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/via.h
+END
+vsc3316_3308.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/vsc3316_3308.c
+END
+ngpixis.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/ngpixis.h
+END
+vid.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/vid.h
+END
+vsc3316_3308.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/vsc3316_3308.h
+END
+epdc_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/epdc_setup.c
+END
+pixis.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/pixis.c
+END
+qixis.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/qixis.c
+END
+cds_pci_ft.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/cds_pci_ft.c
+END
+dcu_sii9022a.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/dcu_sii9022a.c
+END
+fsl_validate.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/fsl_validate.c
+END
+pixis.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/pixis.h
+END
+ns_access.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/ns_access.c
+END
+qixis.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/qixis.h
+END
+dcu_sii9022a.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/dcu_sii9022a.h
+END
+sdhc_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/sdhc_boot.c
+END
+arm_sleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/arm_sleep.c
+END
+idt8t49n222a_serdes_clk.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/idt8t49n222a_serdes_clk.c
+END
+cadmus.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/cadmus.c
+END
+sgmii_riser.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/sgmii_riser.c
+END
+sleep.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/sleep.h
+END
+ls102xa_stream_id.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/ls102xa_stream_id.c
+END
+idt8t49n222a_serdes_clk.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/idt8t49n222a_serdes_clk.h
+END
+cadmus.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/cadmus.h
+END
+fman.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/fman.c
+END
+sgmii_riser.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/sgmii_riser.h
+END
+sys_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/sys_eeprom.c
+END
+fman.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/fman.h
+END
+eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/common/bak/eeprom.h
+END

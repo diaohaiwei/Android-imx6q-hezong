@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu
+END
+ddr3_hw_training.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_hw_training.h
+END
+ddr3_write_leveling.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_write_leveling.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/Makefile
+END
+xor_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/xor_regs.h
+END
+ddr3_axp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_axp_config.h
+END
+ddr3_axp_mc_static.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_axp_mc_static.h
+END
+ddr3_pbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_pbs.c
+END
+ddr3_spd.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_spd.c
+END
+ddr3_dqs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_dqs.c
+END
+ddr3_axp_vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_axp_vars.h
+END
+xor.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/xor.c
+END
+ddr3_axp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_axp.h
+END
+ddr3_axp_training_static.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_axp_training_static.h
+END
+ddr3_read_leveling.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_read_leveling.c
+END
+xor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/xor.h
+END
+ddr3_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_init.c
+END
+ddr3_sdram.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_sdram.c
+END
+ddr3_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_init.h
+END
+ddr3_hw_training.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_hw_training.c
+END
+ddr3_dfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_dfs.c
+END
+ddr3_patterns_64bit.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/drivers/ddr/mvebu/ddr3_patterns_64bit.h
+END

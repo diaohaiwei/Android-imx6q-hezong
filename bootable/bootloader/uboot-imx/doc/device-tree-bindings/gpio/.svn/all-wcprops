@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/doc/device-tree-bindings/gpio
+END
+nvidia,tegra20-gpio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/doc/device-tree-bindings/gpio/nvidia,tegra20-gpio.txt
+END
+gpio-samsung.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/doc/device-tree-bindings/gpio/gpio-samsung.txt
+END
+gpio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/doc/device-tree-bindings/gpio/gpio.txt
+END

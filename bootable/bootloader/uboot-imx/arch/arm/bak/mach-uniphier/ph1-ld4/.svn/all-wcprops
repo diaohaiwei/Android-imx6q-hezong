@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4
+END
+sbc_init_3cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/sbc_init_3cs.c
+END
+umc_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/umc_init.c
+END
+early_pinctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/early_pinctrl.c
+END
+pll_spectrum.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/pll_spectrum.c
+END
+pll_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/pll_init.c
+END
+pinctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/pinctrl.c
+END
+ddrphy_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/ddrphy_init.c
+END
+lowlevel_debug.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/lowlevel_debug.S
+END
+platdevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/platdevice.c
+END
+early_clkrst_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/early_clkrst_init.c
+END
+clkrst_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/clkrst_init.c
+END
+boot-mode.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/boot-mode.c
+END
+sbc_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/sbc_init.c
+END
+sg_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/sg_init.c
+END
+bcu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/bcu_init.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mach-uniphier/ph1-ld4/Makefile
+END

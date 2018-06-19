@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd
+END
+mx6sabresd.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/4/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd/mx6sabresd.c
+END
+plugin.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd/plugin.S
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd/Kconfig
+END
+mx6qp.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd/mx6qp.cfg
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd/MAINTAINERS
+END
+mx6solo_4x_mt41j128.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd/mx6solo_4x_mt41j128.cfg
+END
+mx6dlsabresd.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd/mx6dlsabresd.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd/Makefile
+END
+mx6q_4x_mt41j128.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/mx6sabresd/mx6q_4x_mt41j128.cfg
+END

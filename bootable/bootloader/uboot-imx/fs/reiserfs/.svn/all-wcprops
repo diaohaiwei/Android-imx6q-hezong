@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/reiserfs
+END
+reiserfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/reiserfs/reiserfs.c
+END
+mode_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/reiserfs/mode_string.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/reiserfs/Makefile
+END
+dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/reiserfs/dev.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/reiserfs/Kconfig
+END
+reiserfs_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/fs/reiserfs/reiserfs_private.h
+END

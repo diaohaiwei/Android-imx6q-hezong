@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mvebu-common/serdes
+END
+high_speed_env_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mvebu-common/serdes/high_speed_env_lib.c
+END
+board_env_spec.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mvebu-common/serdes/board_env_spec.h
+END
+high_speed_env_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mvebu-common/serdes/high_speed_env_spec.c
+END
+high_speed_env_spec.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mvebu-common/serdes/high_speed_env_spec.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/bak/mvebu-common/serdes/Makefile
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk
+END
+part_dos.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part_dos.h
+END
+part_iso.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part_iso.c
+END
+part_amiga.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part_amiga.c
+END
+part_iso.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part_iso.h
+END
+part.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part.c
+END
+part_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part_mac.c
+END
+part_amiga.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part_amiga.h
+END
+part_efi.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part_efi.c
+END
+part_dos.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part_dos.c
+END
+part_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/part_mac.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/disk/Makefile
+END

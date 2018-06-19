@@ -1,0 +1,1 @@
+cmd_net/dns_resolver/dns_resolver.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o net/dns_resolver/dns_resolver.o net/dns_resolver/dns_key.o net/dns_resolver/dns_query.o 

@@ -1,0 +1,1 @@
+cmd_lib/libfdt/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld.bfd     -r -o lib/libfdt/built-in.o lib/libfdt/fdt.o lib/libfdt/fdt_ro.o lib/libfdt/fdt_rw.o lib/libfdt/fdt_strerror.o lib/libfdt/fdt_sw.o lib/libfdt/fdt_wip.o lib/libfdt/fdt_empty_tree.o lib/libfdt/fdt_addresses.o 

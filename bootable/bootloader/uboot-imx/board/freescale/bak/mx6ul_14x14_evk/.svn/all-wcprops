@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx6ul_14x14_evk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx6ul_14x14_evk/Makefile
+END
+imximage.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx6ul_14x14_evk/imximage.cfg
+END
+plugin.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx6ul_14x14_evk/plugin.S
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx6ul_14x14_evk/Kconfig
+END
+mx6ul_14x14_evk.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx6ul_14x14_evk/mx6ul_14x14_evk.c
+END
+imximage_lpddr2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx6ul_14x14_evk/imximage_lpddr2.cfg
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/freescale/bak/mx6ul_14x14_evk/MAINTAINERS
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp
+END
+fsp_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp/fsp_api.h
+END
+fsp_fv.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp/fsp_fv.h
+END
+fsp_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp/fsp_support.h
+END
+fsp_ffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp/fsp_ffs.h
+END
+fsp_infoheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp/fsp_infoheader.h
+END
+fsp_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp/fsp_platform.h
+END
+fsp_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp/fsp_types.h
+END
+fsp_bootmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp/fsp_bootmode.h
+END
+fsp_hob.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/x86/include/asm/fsp/fsp_hob.h
+END

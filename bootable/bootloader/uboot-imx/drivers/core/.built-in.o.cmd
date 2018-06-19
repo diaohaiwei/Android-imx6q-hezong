@@ -1,0 +1,1 @@
+cmd_drivers/core/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld.bfd     -r -o drivers/core/built-in.o drivers/core/device.o drivers/core/lists.o drivers/core/root.o drivers/core/uclass.o drivers/core/util.o drivers/core/device-remove.o 

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/inftrees.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/trees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/inflate.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/inftrees.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/trees.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/inflate.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/inffast.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/adler32.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/Makefile
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/inffast.h
+END
+zlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/zlib.c
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/zutil.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/deflate.h
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/lib/zlib/zutil.h
+END

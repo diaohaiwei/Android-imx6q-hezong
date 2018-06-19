@@ -1,0 +1,847 @@
+/*
+ * tq_668@126.com, www.embedsky.net
+ *
+ */
+
+
+
+#include <common.h>
+#include <command.h>
+#include <nand.h>
+
+#ifdef CONFIG_CMD_MENU
+
+#ifdef CONFIG_EMBEDSKY_FAT
+//#include <def.h>
+//#include <vfat.h>
+#endif
+
+//extern char console_buffer[];
+//int TQ_readline (const char *const prompt);	
+//extern char awaitkey(unsigned long delay, int* error_p);
+//extern void download_nkbin_to_flash(void);
+//extern int boot_zImage(ulong from, size_t size);
+//extern char bLARGEBLOCK;
+static int set_args(char *pmenu, char *pargs);
+#define SERIAL_PORT_NUM 0
+
+static int sdcard_update(char* type)
+{
+	int start_addr;
+	char cmd_buf[512];
+	if(!type) {
+		printf("type is null\n");
+		return -1;
+	}
+	
+	if(strcmp(type,"uboot") == 0) {
+		start_addr = 0x02;
+		
+		sprintf(cmd_buf,"if mmc dev ${sddev};then fatload mmc ${sddev}:${sdpart} ${loadaddr} ${uboot_file};fi");
+		if(run_command(cmd_buf,0) < 0) {
+			printf("run command fail\n");
+			return -1;
+		}
+		sprintf(cmd_buf,"if mmc dev ${mmcdev}; then setexpr fw_sz ${uboot_size} / 0x200;setexpr fw_sz ${fw_sz} + 1;mmc write ${loadaddr} %x ${fw_sz};fi",start_addr);
+		run_command(cmd_buf,0);
+	} else if(strcmp(type,"kernel") == 0) {
+	
+	} else if(strcmp(type,"system") == 0) {
+		
+	}
+}
+
+void lcd_menu_usage()
+{
+	printf("\r\n##### display select Menu #####\r\n");
+	printf("[1] 1 screen for android/ubuntu/linux.\r\n");
+	printf("[2] 2 screen for android.\r\n");
+	printf("[3] 3 screen for ubuntu.\r\n");
+	printf("[s] save setting\n");
+	printf("[q] quit\r\n");
+	printf("Enter your selection: ");
+}
+
+int lcd_setting(char *pbuf)
+{
+	char cmd_buf[56] = {'\0'};
+	char c;
+	printf("\r\n##### display select device #####\r\n");
+	printf("[1] lcd or VGA.\r\n");
+	printf("[2] lvds or VGA.\r\n");
+	printf("[3] hdmi.\r\n");
+	printf("[4] quit\n");
+	printf("Enter your selection: ");
+	c = getc();
+	printf("%c", c);
+	switch (c)
+	{
+	case '0':
+		sprintf(cmd_buf, "off");
+		break;
+	case '1':
+		do
+		{
+			printf("\r\n##### display select LCD Interface #####\r\n");
+			printf("[1] 800*480 for FPC\r\n");
+			printf("[2] 1024*768 for FPC->VGA\r\n");
+			printf("[3] 1280*768 for FPC->VGA\r\n");
+			printf("[4] 1360*768 for FPC->VGA\r\n");
+			printf("[5] 1920*1080 for FPC->VGA\r\n");
+			printf("[6] 1920*1200 for FPC->VGA\r\n");
+			printf("[7] 1024*600 for FPC\r\n");
+			printf("[q] quit \r\n");
+			printf("Enter your selection: ");
+			c = getc();
+			printf("%c\n", c);
+			if (c == '1')
+			{
+				sprintf(cmd_buf, "dev=lcd,CLAA-WVGA,if=RGB24,bpp=32");
+				break;
+			}
+			else if (c == '2')
+			{
+				sprintf(cmd_buf, "dev=lcd,TQ-VGA_1024768,if=RGB24,bpp=32");
+				break;
+			}
+			else if (c == '3')
+			{
+				sprintf(cmd_buf, "dev=lcd,TQ-VGA_1280768,if=RGB24,bpp=32");
+				break;
+			}
+			else if (c == '4')
+			{
+				sprintf(cmd_buf, "dev=lcd,TQ-VGA_1360768,if=RGB24,bpp=32");
+				break;
+			}
+			else if (c == '5')
+			{
+				sprintf(cmd_buf, "dev=lcd,TQ-VGA_19201080,if=RGB24,bpp=32");
+				break;
+			}
+			else if (c == '6')
+			{
+				sprintf(cmd_buf, "dev=lcd,TQ-VGA_19201200,if=RGB24,bpp=32");
+				break;
+			}
+			else if (c == '7')
+			{
+				sprintf(cmd_buf, "dev=lcd,TQ-TFT_1024600,if=RGB24,bpp=32");
+				break;
+			}
+		}while (c != 'q');
+		break;
+	case '2':
+		do
+		{
+			printf("\r\n##### display select LVDS #####\r\n");
+			printf("[1] 800*600 for LVDS->VGA\r\n");
+			printf("[2] 1024*768 for LVDS->VGA \r\n");
+			printf("[3] 1280*768 for LVDS->VGA \r\n");
+			printf("[4] 1366*768 for LVDS \r\n");
+			printf("[5] 1920*1080 for LVDS (2 lvds is needed,LVDS only) \r\n");
+			printf("[6] 1024*600 for LVDS \r\n");
+			printf("[q] quit \r\n");
+			printf("Enter your selection: ");
+			c = getc();
+			printf("%c\n", c);
+			if (c == '1')
+			{
+				sprintf(cmd_buf, "dev=ldb,TQ-ldb_800600,if=RGB666,bpp=32 ldb=dul0");
+				break;
+			}
+			else if (c == '2')
+			{
+				sprintf(cmd_buf, "dev=ldb,TQ-ldb_1024768,if=RGB666,bpp=32 ldb=dul0");
+				break;
+			}
+			else if (c == '3')
+			{
+				sprintf(cmd_buf, "dev=ldb,TQ-ldb_1280768,if=RGB666,bpp=32 ldb=dul0");
+				break;
+			}
+			else if (c == '4')
+			{
+				sprintf(cmd_buf, "dev=ldb,LDB-XGA,if=RGB666,bpp=32 ldb=sin0");
+				break;
+			}
+			else if (c == '5')
+			{
+				sprintf(cmd_buf, "dev=ldb,LDB-1080P60,if=RGB24,bpp=32 ldb=spl0");
+				break;
+			}
+			else if (c == '6')
+			{
+				sprintf(cmd_buf, "dev=ldb,LDB-1024P60,if=RGB24,bpp=24 ldb=dul0");
+				break;
+			}
+		}while (c != 'q');
+		break;
+	case '3':
+		sprintf(cmd_buf, "dev=hdmi,1920x1080M@60,if=RGB24,bpp=32");
+		break;
+	}
+	strcpy(pbuf, cmd_buf);
+	return strlen(cmd_buf);
+}
+
+
+void lcd_menu_shell()
+{
+	char c;
+	char cmd_buf[256];
+	char cmd_buf_all[256];
+	int need_renew = 0;
+	while (1)
+	{
+		lcd_menu_usage();
+		c = getc();
+		printf("%c", c);
+		if ((c == '1'))
+		{
+			sprintf(cmd_buf, " video=mxcfb0:");
+			if (lcd_setting(&cmd_buf[strlen(cmd_buf)]) != 0)
+			{
+				strcat(cmd_buf, " video=mxcfb1:off video=mxcfb2:off video=mxcfb3:off fbmem=48M");
+				sprintf(cmd_buf_all, "setenv displayArgs %s", cmd_buf);
+				run_command(cmd_buf_all, 0);
+			}	
+		}
+		else if (c == '2')
+		{
+			for (;;)
+			{
+				printf("\r\n##### display select for android #####\r\n");
+				printf("[1] 800*600 for LVDS->VGA \r\n");
+				printf("[2] 1024*768 for FPC->VGA \r\n");	// video=mxcfb0:dev=lcd,if=RGB24,TQ-VGA_1024768,bpp=32 video=mxcfb1:dev=hdmi,1280x720M@60,if=RGB24,bpp=32 video=mxcfb2:off fbmem=28M,48M
+				printf("[3] 1280*768 for FPC->VGA\r\n");	//video=mxcfb1:dev=lcd,if=RGB24,TQ-VGA_1280768,bpp=32 video=mxcfb0:dev=hdmi,1280x720M@60,if=RGB2em4,bpp=32 video=mxcfb2:off fbmem=28M,48M
+				printf("[4] 1360*768 for FPC->VGA\r\n");	//video=mxcfb1:dev=lcd,if=RGB24,TQ-VGA_1360768,bpp=32 video=mxcfb0:dev=hdmi,1280x720M@60,if=RGB2em4,bpp=32 video=mxcfb2:off fbmem=28M,48M
+				printf("[5] 1920*1080 for FPC->VGA\r\n");	//video=mxcfb1:dev=lcd,if=RGB24,TQ
+				printf("[6] 1366*768 for LVDS->VGA \r\n");
+				printf("[7] 1920*1080 for LVDS (need 2 lvds ports) \r\n");
+				printf("[q] quit \r\n");
+				printf("Enter your selection: ");
+				c = getc();
+				printf("%c\n", c);
+				if (c == '1')
+				{
+					sprintf(cmd_buf_all, "dev=ldb,TQ-ldb_800600,if=RGB666,bpp=32 ldb=dul0");
+					sprintf(cmd_buf_all, "setenv displayArgs %s", cmd_buf);
+					run_command(cmd_buf_all, 0);
+					break;
+				}
+				else if (c == '2')
+				{
+					sprintf(cmd_buf_all, "setenv displayArgs video=mxcfb0:dev=lcd,if=RGB24,TQ-VGA_1024768,bpp=32 video=mxcfb1:dev=hdmi,1280x720M@60,if=RGB24,bpp=32 video=mxcfb2:off fbmem=28M,48M");
+					run_command(cmd_buf_all, 0);
+					break;
+				}
+				else if (c == '3')
+				{
+					sprintf(cmd_buf_all, "setenv displayArgs video=mxcfb1:dev=lcd,if=RGB24,TQ-VGA_1280768,bpp=32 video=mxcfb0:dev=hdmi,1280x720M@60,if=RGB24,bpp=32 video=mxcfb2:off fbmem=28M,48M");
+					run_command(cmd_buf_all, 0);
+					break;
+				}
+				else if (c == '4')
+				{
+					sprintf(cmd_buf_all, "setenv displayArgs video=mxcfb1:dev=lcd,if=RGB24,TQ-VGA_1360768,bpp=32 video=mxcfb0:dev=hdmi,1280x720M@60,if=RGB24,bpp=32 video=mxcfb2:off fbmem=28M,48M");
+					run_command(cmd_buf_all, 0);
+					break;
+				}
+				else if (c == '5')
+				{
+					sprintf(cmd_buf_all, "setenv displayArgs video=mxcfb1:dev=lcd,if=RGB24,TQ-VGA_19201080,bpp=32 video=mxcfb0:dev=hdmi,1280x720M@60,if=RGB24,bpp=32 video=mxcfb2:off fbmem=28M,48M");
+					run_command(cmd_buf_all, 0);
+					break;
+				}
+				else if (c == '6')
+				{
+					sprintf(cmd_buf_all, "setenv displayArgs video=mxcfb0:dev=ldb,LDB-XGA,if=RGB666,bpp=32 ldb=dul0 video=mxcfb1:dev=hdmi,1280x720M@60,if=RGB24,bpp=32 video=mxcfb2:off fbmem=28M,48M");
+					run_command(cmd_buf_all, 0);
+					break;
+				}
+				else if (c == '7')
+				{
+					sprintf(cmd_buf_all, "setenv displayArgs video=mxcfb0:dev=ldb,LDB-1080P60,if=RGB24,bpp=32 ldb=spl0 video=mxcfb1:dev=hdmi,1280x720M@60,if=RGB24,bpp=32 video=mxcfb2:off fbmem=28M,48M");
+					run_command(cmd_buf_all, 0);
+					break;
+				}
+				else if (c == 'q')
+				{
+					break;
+				}
+				printf("ill param\n");
+			}
+		}
+		else if(c == '3')
+		{//video=mxcfb0:dev=ldb,TQ-ldb_1024768,if=RGB666 ldb=sep1
+			sprintf(cmd_buf_all, "setenv displayArgs video=mxcfb0:dev=ldb,TQ-ldb_1024768,if=RGB666 ldb=sep1");
+			run_command(cmd_buf_all, 0);			
+		}
+		else if(c == 's')
+		{
+			run_command("saveenv", 0);
+		}	
+		else if (c == 'q')
+		{
+			break;
+		}
+	}
+}
+
+static void sd_menu_shell(void)
+{
+	char c;
+	
+	printf("\r\n##### Parameter Menu #####\r\n");
+	printf("[1]sd update u-boot\n");
+	printf("[2]sd update kernel\n");
+	printf("[3]sd update system\n");
+	printf("[4]OneKey update\n");
+	printf("[q] Return main Menu \r\n");
+	printf("Enter your selection: ");
+	do {
+		c = getc();
+		printf("%c", c);
+		switch(c) {
+			case '1':
+				sdcard_update("uboot");
+				break;
+			case '2':
+				break;
+			case '3':
+				break;
+			case '4':
+				break;
+			default:
+				break;
+		}
+		
+	}while(c != 'q');
+}
+
+static int determine_to_save()
+{
+	char c;
+	printf("%s\n", "save setting ? (y/n) :");
+	c = getc();
+	printf("%c\n", c);
+	if (c == 'y')
+	{
+		run_command("saveenv", 0);
+		return 1;
+	}
+	printf("%s\n", "setting have not been saved");
+	return 0;
+}
+
+static int set_kernel_ip_args(char *pbuf)
+{
+	int i;
+	char c;
+	int pri = 1;
+	char* env;
+	char cmd_buf[256];
+	
+	do {
+		if(pri) {
+			pri--;
+			printf("\r\n#####kernel ip args #####\r\n");		
+			printf("[1]kernel ip use dhcp\n");
+			printf("[2]kernel ip use uboot\n");	
+			printf("[3]custom kernel ip\n");
+			printf("[s]save setting\n");	
+			printf("[q]quit\n");
+			printf("Enter your selection: ");
+		}
+		c = getc();
+		switch (c)
+		{
+		case '1':
+			printf("%c\n", c);
+			run_command("setenv dh 'dhcp'",0);
+			pri = 1;
+			break;
+		case '2':
+			printf("%c\n", c);
+			sprintf(cmd_buf, "setenv dh '%s:%s:%s:%s'",getenv("ipaddr"), getenv("serverip"), getenv("gatewayip"), getenv("netmask"));
+			run_command(cmd_buf,0);
+			pri = 1;
+			break;
+		case '3':
+			printf("%c\n", c);
+			set_args("Enter the kernel IMX6 IP address","dhip");
+			set_args("Enter the kernel bootserver IP address","dhserip");
+			set_args("Enter the kernel gatewayip IP address","dhgaip");
+			set_args("Enter the kernel netmask IP address","dhmaskip");
+			sprintf(cmd_buf, "setenv dh '%s:%s:%s:%s'",getenv("dhip"), getenv("dhserip"), getenv("dhgaip"), getenv("dhmaskip"));
+			run_command(cmd_buf,0);
+			pri = 1;
+			break;
+		case 's':
+			printf("%c\n", c);
+			run_command("saveenv", 0);
+			pri = 1;
+			break;
+		default:
+			break;
+		}
+	}while ((c != 'q') && (c != 'Q'));
+	return 0;
+}
+
+static int set_args(char *pmenu, char *pargs)
+{
+	char param_buf[256], cmd_buf[256];
+	char* pdesc = NULL;
+
+	printf("%s\n", pmenu);
+	pdesc = getenv(pargs);
+	TQ_readline(pdesc);
+	strcpy(param_buf, console_buffer);
+	sprintf(cmd_buf, "setenv %s '%s'", pargs, param_buf);
+	run_command(cmd_buf, 0);
+	return 0;
+}
+
+static int do_nfs_para_setting(char *pbuf)
+{
+	int rtn = 0;
+
+	printf("--------setting %s args--------\n", "nfs");
+	set_args("Enter the PC IP address:", "nfsserverip");
+	set_args("Enter the IMX6 IP address:", "ipaddr");
+	set_args("Enter NFS directory:", "nfsroot");
+	determine_to_save();
+	return rtn;
+}
+
+static int do_tftp_para_setting(char *pbuf)
+{
+	printf("--------setting %s args--------\n", "tftp");
+	set_args("Enter the TFTP Server(PC) IP address:", "serverip");
+	set_args("Enter the IMX6 IP address:", "ipaddr");
+	set_args("Enter the GateWay IP:", "gatewayip");	
+	set_args("Enter the bootloader (u-boot or bootimage) image name:", "uboot");
+	set_args("Enter the LOGO image name:", "logoimgname");
+	set_args("Enter the kernel image name:", "image");
+	set_args("Enter the dtb image name:", "fdt_file");
+	set_args("Enter the root image name:", "rootfs");
+	determine_to_save();
+}
+
+static set_display_args(int num,char* dev, char* mode, char* rgb, int bpp)
+{
+	char cmd_buf[256];
+	if(!strcmp(dev,"off")) {
+		sprintf(cmd_buf,"setenv mxcfb%d 'video=mxcfb%d:%s'",num,num,dev);
+		run_command(cmd_buf,0);
+	} else if(!strcmp(dev,"dtb")) {
+		sprintf(cmd_buf,"setenv mxcfb%d ' '",num);
+		run_command(cmd_buf,0);
+	} else {
+		sprintf(cmd_buf,"setenv mxcfb%d 'video=mxcfb%d:dev=%s,%s,if=%s,bpp=%d'",num,num,dev,mode,rgb,bpp);
+		run_command(cmd_buf,0);
+	}
+}
+
+static int set_lcd_para(int num)
+{
+	int i;
+	char c;
+	int pri = 1;
+	
+	do {
+		if(pri) {
+			pri--;
+			printf("\r\n##### mxcfb%d lcd args #####\r\n",num);		
+			printf("[1]800*480 lcd\n");
+			printf("[s]save setting\n");	
+			printf("[q]quit\n");
+			printf("Enter your selection: ");
+		}
+		c = getc();
+		switch (c)
+		{
+		case '1':
+			printf("%c\n", c);
+			set_display_args(num,"lcd","CLAA-WVGA","RGB24",32);
+			pri = 1;
+			break;
+		case '2':
+			printf("%c\n", c);
+			set_display_args(num,"lcd","1920x1080@60","RGB24",32);
+			pri = 1;
+			break;
+		case '3':
+			printf("%c\n", c);
+			set_display_args(num,"lcd","1920x1080@60","RGB24",32);
+			pri = 1;
+			break;
+		case 's':
+			printf("%c\n", c);
+			run_command("saveenv", 0);
+			pri = 1;
+			break;
+		default:
+			break;
+		}
+	}while ((c != 'q') && (c != 'Q'));
+	return 0;
+}
+static int set_lvds_para(int num)
+{
+	run_command("tftp 0x15000000 logo.bmp",0);
+}
+static int set_hdmi_para(int num)
+{
+	int i;
+	char c;
+	int pri = 1;
+	
+	do {
+		if(pri) {
+			pri--;
+			printf("\r\n##### mxcfb%d hdmi args #####\r\n",num);		
+			printf("[1]480p\n");
+			printf("[2]720p\n");
+			printf("[3]1080p\n");
+			printf("[s]save setting\n");	
+			printf("[q]quit\n");
+			printf("Enter your selection: ");
+		}
+		c = getc();
+		switch (c)
+		{
+		case '1':
+			printf("%c\n", c);
+			set_display_args(num,"hdmi","640x480@60","RGB24",32);
+			pri = 1;
+			break;
+		case '2':
+			printf("%c\n", c);
+			set_display_args(num,"hdmi","1280x720@60","RGB24",32);
+			pri = 1;
+			break;
+		case '3':
+			printf("%c\n", c);
+			set_display_args(num,"hdmi","1920x1080@60","RGB24",32);
+			pri = 1;
+			break;
+		case 's':
+			printf("%c\n", c);
+			run_command("saveenv", 0);
+			pri = 1;
+			break;
+		default:
+			break;
+		}
+	}while ((c != 'q') && (c != 'Q'));
+	return 0;
+}
+
+static int set_display_para(int num)
+{
+	int i;
+	char c;
+	int pri = 1;
+	
+	do {
+		if(pri) {
+			pri--;
+			printf("\r\n##### mxcfb%d display args #####\r\n",num);		
+			printf("[1]lcd or VGA\n");
+			printf("[2]lvds\n");
+			printf("[3]hdmi\n");
+			printf("[9]mxcfb%d use dtb\n",num);
+			printf("[0]mxcfb%d off\n",num);
+			printf("[s]save setting\n");		
+			printf("[q]quit\n");
+			printf("Enter your selection: ");
+		}
+		c = getc();
+		switch (c)
+		{
+		case '1':
+			printf("%c\n", c);
+			set_lcd_para(num);
+			pri = 1;
+			break;
+		case '2':
+			printf("%c\n", c);
+			set_lvds_para(num);
+			pri = 1;
+			break;
+		case '3':
+			printf("%c\n", c);
+			set_hdmi_para(num);
+			pri = 1;
+			break;
+		case '9':
+			printf("%c\n", c);
+			set_display_args(num,"dtb",NULL,NULL,0);
+			pri = 1;
+			break;
+		case '0':
+			printf("%c\n", c);
+			set_display_args(num,"off",NULL,NULL,0);
+			pri = 1;
+			break;
+		case 's':
+			printf("%c\n", c);
+			run_command("saveenv", 0);
+			pri = 1;
+			break;
+		default:
+			break;
+		}
+	}while ((c != 'q') && (c != 'Q'));
+	return 0;
+}
+
+static int do_disp_para_setting(char *pbuf)
+{
+	int i;
+	char c;
+	int pri = 1;
+	
+	do {
+		if(pri) {
+			pri--;
+			printf("\r\n##### setting display args #####\r\n");		
+			printf("[1]mxfb0 display  args\n");
+			printf("[2]mxfb1 display  args\n");
+			printf("[3]mxfb2 display  args\n");
+			printf("[4]mxfb3 display  args\n");
+			printf("[s]save setting\n");		
+			printf("[q]quit\n");
+			printf("Enter your selection: ");
+		}
+		c = getc();
+		switch (c)
+		{
+		case '1':
+			printf("%c\n", c);
+			set_display_para(0);
+			pri = 1;
+			break;
+		case '2':
+			printf("%c\n", c);
+			set_display_para(1);
+			pri = 1;
+			break;
+		case '3':
+			printf("%c\n", c);
+			set_display_para(2);
+			pri = 1;
+			break;
+		case '4':
+			printf("%c\n", c);
+			set_display_para(3);
+			pri = 1;
+			break;
+		case 's':
+			printf("%c\n", c);
+			run_command("saveenv", 0);
+			pri = 1;
+			break;
+		default:
+			break;
+		}
+	}while ((c != 'q') && (c != 'Q'));
+	//lcd_menu_shell();
+	return 0;
+}
+
+
+static void do_media_para_setting(char * pbuf)
+{
+	int i;
+	char c;
+	int pri = 1;
+
+	do {
+		if(pri) {
+			pri--;
+			printf("\r\n##### param setting #####\r\n");		
+			printf("[1]ubuntu used emmc \n");
+			printf("[2]android used emmc \n");
+			printf("[3]linux used emmc \n");
+			printf("[4]andorid used tftp & nfs \n");
+			printf("[s]save setting\n");		
+			printf("[q]quit\n");
+			printf("Enter your selection: ");
+		}
+		c = getc();
+		printf("%c", c);
+		switch (c)
+		{
+		case '1':
+			run_command("setenv bootcmd 'run bootcmd_mmc_ubuntu'",0);
+			pri = 1;
+			break;
+		case '2':
+			run_command("setenv bootcmd 'run bootcmd_mmc_android'",0);
+			pri = 1;
+			break;
+		case '3':
+			run_command("setenv bootcmd 'run mmcboot'",0);
+			pri = 1;
+			break;
+		case '4':
+			run_command("setenv bootcmd run 'netboot'",0);
+			pri = 1;
+			break;
+		case 's':
+			run_command("saveenv", 0);
+			pri = 1;
+			break;
+		default:
+			break;
+		}
+	} while ((c != 'q') && (c != 'Q'));
+
+}
+
+static int do_boot_para_setting(char *pbuf)
+{
+	int i;
+	char c;
+	int pri = 1;
+
+	do {
+		if(pri) {
+			pri--;
+			printf("\r\n##### param setting #####\r\n");		
+			printf("[1]setting nfs args\n");
+			printf("[2]setting tftp args\n");
+			printf("[3]setting display args\n");
+			printf("[4]setting default boot\n");
+			printf("[5]kernel ip dhcp\n");
+			printf("[s]save setting\n");
+			printf("[q]quit\n");
+			printf("Enter your selection: ");
+		}
+		c = getc();
+		switch (c)
+		{
+		case '1':
+			printf("%c\n", c);
+			do_nfs_para_setting(NULL);
+			pri = 1;
+			break;
+		case '2':
+			printf("%c\n", c);
+			do_tftp_para_setting(NULL);
+			pri = 1;
+			break;
+		case '3':
+			printf("%c\n", c);
+			do_disp_para_setting(NULL);
+			pri = 1;
+			break;
+		case '4':
+			printf("%c\n", c);
+			do_media_para_setting(NULL);
+			pri = 1;
+			break;
+		case '5':
+			printf("%c\n", c);
+			set_kernel_ip_args(NULL);
+			pri = 1;
+			break;
+		case 's':
+			printf("%c\n", c);
+			run_command("saveenv", 0);
+			pri = 1;	
+			break;
+		default:
+			break;
+		}
+	} while ((c != 'q') && (c != 'Q'));
+}
+
+#define USE_USB_DOWN        1
+#define USE_TFTP_DOWN       2
+#define USE_SD_DOWN     3
+
+void menu_shell(void)
+{
+	char keyselect;
+	char cmd_buf[512];
+	char *ptmp;
+	int pri = 1;
+	
+	do {
+		if(pri) {
+			pri--;
+			printf("\r\n#####	 Boot for IMX6 Main Menu	#####\r\n");
+			printf("[1]boot from emmc\n");
+			printf("[2]boot from sdcard\n");
+			printf("[3]boot from tftp\n");
+			printf("[4]sdcard update system\n");
+			printf("[5]download from sdcard\n");
+			printf("[0]setting boot args\n");
+			printf("[q]exit to command mode\n");
+			printf("Enter your selection: ");
+		}
+		keyselect = getc();
+		switch (keyselect)
+		{
+			case '1':
+				printf("%c", keyselect);
+				ptmp = getenv("bootcmd");
+				if(strcmp(ptmp,"run bootcmd_mmc_ubuntu") == 0)
+					run_command("run mmcboot", 0);
+				else if (strcmp(ptmp,"run bootcmd_mmc_android") == 0)
+					run_command("run mmcboot", 0);
+				else
+					run_command("run mmcboot", 0);
+				pri = 1;
+				break;
+			case '2':
+				printf("%c", keyselect);
+				pri = 1;
+			break;
+			case '3':
+				printf("%c", keyselect);
+				run_command("run netboot", 0);
+				pri = 1;
+			break;
+			case '4':
+				printf("%c", keyselect);
+				sd_menu_shell();
+				pri = 1;
+				break;
+			case '0':
+				printf("%c", keyselect);
+				do_boot_para_setting(NULL);
+				pri = 1;
+				break;
+			case '5':
+				printf("%c", keyselect);
+				sprintf(cmd_buf,"run bootargs_base_andorid; booti mmc1 recovery",ptmp);
+				run_command(cmd_buf,0);
+				pri = 1;
+				break;
+			default:
+				break;
+		}
+
+	} while ((keyselect != 'q') && (keyselect != 'Q'));
+	printf("%c\n", keyselect);
+}
+
+int do_menu (cmd_tbl_t *cmdtp, int flag, int argc, char *argv[])
+{
+	menu_shell();
+	return 0;
+}
+
+U_BOOT_CMD(
+    menu,   3,  0,  do_menu,
+    "display a menu, to select the items to do something",
+    "\n"
+    "\tdisplay a menu, to select the items to do something"
+);
+#endif

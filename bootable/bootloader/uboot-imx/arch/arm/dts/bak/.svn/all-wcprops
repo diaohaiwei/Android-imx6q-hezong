@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak
+END
+s5pc1xx-smdkc100.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/s5pc1xx-smdkc100.dts
+END
+am33xx.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/am33xx.dtsi
+END
+socfpga_arria5.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/socfpga_arria5.dtsi
+END
+tegra114.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra114.dtsi
+END
+tegra30-tamonten.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra30-tamonten.dtsi
+END
+tegra20-whistler.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-whistler.dts
+END
+exynos5250-arndale.dts
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5250-arndale.dts
+END
+exynos5420-smdk5420.dts
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5420-smdk5420.dts
+END
+exynos5420-peach-pit.dts
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5420-peach-pit.dts
+END
+tegra114-dalmore.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra114-dalmore.dts
+END
+s5pc100-pinctrl.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/s5pc100-pinctrl.dtsi
+END
+tegra20.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20.dtsi
+END
+tegra20-tec.dts
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-tec.dts
+END
+exynos4412-odroid.dts
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4412-odroid.dts
+END
+exynos4210-pinctrl.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4210-pinctrl.dtsi
+END
+tegra30-tec-ng.dts
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra30-tec-ng.dts
+END
+zynq-zed.dts
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/zynq-zed.dts
+END
+tegra20-seaboard.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-seaboard.dts
+END
+exynos5250-pinctrl.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5250-pinctrl.dtsi
+END
+tps65217.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tps65217.dtsi
+END
+uniphier-ph1-sld3.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/uniphier-ph1-sld3.dtsi
+END
+tegra124-jetson-tk1.dts
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra124-jetson-tk1.dts
+END
+uniphier-ph1-sld3-ref.dts
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/uniphier-ph1-sld3-ref.dts
+END
+sunxi-common-regulators.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/sunxi-common-regulators.dtsi
+END
+socfpga.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/socfpga.dtsi
+END
+tegra124-nyan-big.dts
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra124-nyan-big.dts
+END
+uniphier-ph1-sld8-ref.dts
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/uniphier-ph1-sld8-ref.dts
+END
+skeleton.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/skeleton.dtsi
+END
+am335x-boneblack.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/am335x-boneblack.dts
+END
+tegra20-tamonten.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-tamonten.dtsi
+END
+am335x-bone-common.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/am335x-bone-common.dtsi
+END
+exynos54xx-pinctrl.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos54xx-pinctrl.dtsi
+END
+uniphier-ph1-ld4.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/uniphier-ph1-ld4.dtsi
+END
+exynos4210-pinctrl-uboot.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4210-pinctrl-uboot.dtsi
+END
+sun7i-a20-pcduino3.dts
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/sun7i-a20-pcduino3.dts
+END
+socfpga_arria5_socdk.dts
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/socfpga_arria5_socdk.dts
+END
+exynos4412-trats2.dts
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4412-trats2.dts
+END
+exynos4210-origen.dts
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4210-origen.dts
+END
+exynos4x12.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4x12.dtsi
+END
+tegra20-harmony.dts
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-harmony.dts
+END
+exynos5422-odroidxu3.dts
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5422-odroidxu3.dts
+END
+exynos5800-peach-pi.dts
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5800-peach-pi.dts
+END
+exynos54xx-pinctrl-uboot.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos54xx-pinctrl-uboot.dtsi
+END
+exynos4210-trats.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4210-trats.dts
+END
+uniphier-ph1-sld8.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/uniphier-ph1-sld8.dtsi
+END
+tegra20-paz00.dts
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-paz00.dts
+END
+tegra20-medcom-wide.dts
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-medcom-wide.dts
+END
+tegra20-trimslice.dts
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-trimslice.dts
+END
+tegra20-ventana.dts
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-ventana.dts
+END
+zynq-7000.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/zynq-7000.dtsi
+END
+tegra124.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra124.dtsi
+END
+exynos4210-smdkv310.dts
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4210-smdkv310.dts
+END
+uniphier-ph1-pro4.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/uniphier-ph1-pro4.dtsi
+END
+zynq-zc702.dts
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/zynq-zc702.dts
+END
+socfpga_cyclone5_socdk.dts
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/socfpga_cyclone5_socdk.dts
+END
+zynq-zc706.dts
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/zynq-zc706.dts
+END
+tegra30-cardhu.dts
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra30-cardhu.dts
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/.gitignore
+END
+tegra30-apalis.dts
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra30-apalis.dts
+END
+s5pc110-pinctrl.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/s5pc110-pinctrl.dtsi
+END
+tegra30.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra30.dtsi
+END
+zynq-zybo.dts
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/zynq-zybo.dts
+END
+tegra124-venice2.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra124-venice2.dts
+END
+exynos4.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4.dtsi
+END
+tegra20-colibri.dts
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-colibri.dts
+END
+exynos5250-snow.dts
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5250-snow.dts
+END
+socfpga_cyclone5_socrates.dts
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/socfpga_cyclone5_socrates.dts
+END
+exynos4x12-pinctrl.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4x12-pinctrl.dtsi
+END
+socfpga_cyclone5.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/socfpga_cyclone5.dtsi
+END
+sun7i-a20.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/sun7i-a20.dtsi
+END
+cros-ec-keyboard.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/cros-ec-keyboard.dtsi
+END
+tegra20-plutux.dts
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra20-plutux.dts
+END
+uniphier-ph1-ld4-ref.dts
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/uniphier-ph1-ld4-ref.dts
+END
+exynos4210.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4210.dtsi
+END
+uniphier-ph1-pro4-ref.dts
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/uniphier-ph1-pro4-ref.dts
+END
+s5pc1xx-goni.dts
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/s5pc1xx-goni.dts
+END
+tegra30-beaver.dts
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra30-beaver.dts
+END
+uniphier-ref-daughter.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/uniphier-ref-daughter.dtsi
+END
+exynos4412.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4412.dtsi
+END
+exynos5250-pinctrl-uboot.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5250-pinctrl-uboot.dtsi
+END
+exynos5250-smdk5250.dts
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5250-smdk5250.dts
+END
+exynos5250.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5250.dtsi
+END
+zynq-microzed.dts
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/zynq-microzed.dts
+END
+exynos4x12-pinctrl-uboot.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4x12-pinctrl-uboot.dtsi
+END
+zynq-zc770-xm010.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/zynq-zc770-xm010.dts
+END
+zynq-zc770-xm012.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/zynq-zc770-xm012.dts
+END
+zynq-zc770-xm013.dts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/zynq-zc770-xm013.dts
+END
+exynos5.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos5.dtsi
+END
+tegra30-colibri.dts
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/tegra30-colibri.dts
+END
+exynos4210-universal_c210.dts
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos4210-universal_c210.dts
+END
+exynos54xx.dtsi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/dts/bak/exynos54xx.dtsi
+END

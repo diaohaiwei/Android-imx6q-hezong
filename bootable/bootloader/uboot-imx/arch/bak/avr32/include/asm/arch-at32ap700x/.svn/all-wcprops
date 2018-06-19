@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x
+END
+clk.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x/clk.h
+END
+hmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x/hmatrix.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x/hardware.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x/gpio.h
+END
+mmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x/mmu.h
+END
+portmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x/portmux.h
+END
+chip-features.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x/chip-features.h
+END
+cacheflush.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x/cacheflush.h
+END
+addrspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/avr32/include/asm/arch-at32ap700x/addrspace.h
+END

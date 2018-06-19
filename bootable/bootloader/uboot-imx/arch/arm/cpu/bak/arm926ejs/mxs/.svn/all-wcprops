@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs
+END
+mxs.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/mxs.c
+END
+u-boot-imx23.bd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/u-boot-imx23.bd
+END
+u-boot-imx28.bd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/u-boot-imx28.bd
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/start.S
+END
+spl_mem_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/spl_mem_init.c
+END
+mxsimage.mx23.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/mxsimage.mx23.cfg
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/timer.c
+END
+spl_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/spl_boot.c
+END
+mxsimage.mx28.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/mxsimage.mx28.cfg
+END
+spl_lradc_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/spl_lradc_init.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/Makefile
+END
+spl_power_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/spl_power_init.c
+END
+mxsimage-signed.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/mxsimage-signed.cfg
+END
+mxs_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/mxs_init.h
+END
+iomux.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/iomux.c
+END
+u-boot-spl.lds
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/arm/cpu/bak/arm926ejs/mxs/u-boot-spl.lds
+END

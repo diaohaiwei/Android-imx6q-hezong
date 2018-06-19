@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/serial.c
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/interrupts.c
+END
+spl_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/spl_boot.c
+END
+pci_mpc5200.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/pci_mpc5200.c
+END
+io.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/io.S
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/cpu.c
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/traps.c
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/usb.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/config.mk
+END
+usb_ohci.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/usb_ohci.c
+END
+firmware_sc_task_bestcomm.impl.S
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/firmware_sc_task_bestcomm.impl.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/Kconfig
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/speed.c
+END
+usb_ohci.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/usb_ohci.h
+END
+ide.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/ide.c
+END
+u-boot-spl.lds
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/u-boot-spl.lds
+END
+loadtask.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/loadtask.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/cache.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/u-boot.lds
+END
+cpu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/cpu_init.c
+END
+u-boot-customlayout.lds
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/u-boot-customlayout.lds
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/i2c.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/powerpc/cpu/mpc5xxx/start.S
+END

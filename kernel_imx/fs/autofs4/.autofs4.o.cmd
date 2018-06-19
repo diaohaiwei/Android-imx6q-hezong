@@ -1,0 +1,1 @@
+cmd_fs/autofs4/autofs4.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o fs/autofs4/autofs4.o fs/autofs4/init.o fs/autofs4/inode.o fs/autofs4/root.o fs/autofs4/symlink.o fs/autofs4/waitq.o fs/autofs4/expire.o fs/autofs4/dev-ioctl.o 

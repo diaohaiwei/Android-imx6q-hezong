@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527
+END
+ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/ports.h
+END
+def_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/def_local.h
+END
+mem_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/mem_map.h
+END
+portmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/portmux.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/gpio.h
+END
+BF522_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF522_def.h
+END
+BF523_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF523_def.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/anomaly.h
+END
+BF524_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF524_def.h
+END
+BF525_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF525_def.h
+END
+BF522_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF522_cdef.h
+END
+BF526_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF526_def.h
+END
+BF523_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF523_cdef.h
+END
+BF527_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF527_def.h
+END
+BF524_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF524_cdef.h
+END
+BF525_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF525_cdef.h
+END
+BF526_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF526_cdef.h
+END
+BF527_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/arch/bak/blackfin/include/asm/mach-bf527/BF527_cdef.h
+END

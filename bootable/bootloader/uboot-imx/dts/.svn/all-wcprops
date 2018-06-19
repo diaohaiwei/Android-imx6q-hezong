@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/dts
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/dts/.gitignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/dts/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/dts/Kconfig
+END

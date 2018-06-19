@@ -1,0 +1,1 @@
+cmd_drivers/i2c/algos/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/i2c/algos/built-in.o drivers/i2c/algos/i2c-algo-bit.o drivers/i2c/algos/i2c-algo-pcf.o drivers/i2c/algos/i2c-algo-pca.o 

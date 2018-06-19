@@ -1,0 +1,1 @@
+cmd_drivers/mtd/devices/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/mtd/devices/built-in.o drivers/mtd/devices/mtd_dataflash.o drivers/mtd/devices/m25p80.o drivers/mtd/devices/sst25l.o 

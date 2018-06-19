@@ -1,0 +1,1 @@
+cmd_drivers/dma/pxp/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/dma/pxp/built-in.o drivers/dma/pxp/pxp_dma_v2.o drivers/dma/pxp/pxp_dma_v3.o drivers/dma/pxp/pxp_device.o 

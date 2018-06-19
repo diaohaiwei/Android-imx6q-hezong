@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/net/wireless/built-in.o drivers/net/wireless/hostap/built-in.o drivers/net/wireless/brcm80211/built-in.o drivers/net/wireless/bcmdhd/built-in.o 

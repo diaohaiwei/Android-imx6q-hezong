@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/coda/coda.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/media/platform/coda/coda.o drivers/media/platform/coda/coda-common.o drivers/media/platform/coda/coda-bit.o drivers/media/platform/coda/coda-h264.o drivers/media/platform/coda/coda-jpeg.o 

@@ -1,0 +1,1 @@
+cmd_drivers/thermal/thermal_sys.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/thermal/thermal_sys.o drivers/thermal/thermal_core.o drivers/thermal/thermal_hwmon.o drivers/thermal/of-thermal.o drivers/thermal/step_wise.o drivers/thermal/cpu_cooling.o 

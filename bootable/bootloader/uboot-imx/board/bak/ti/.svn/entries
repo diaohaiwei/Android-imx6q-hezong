@@ -1,0 +1,70 @@
+10
+
+dir
+3
+http://192.168.1.8/svn/I.MX6_u-boot/trunk/u-boot-android-2015.04-imx/board/bak/ti
+http://192.168.1.8/svn/I.MX6_u-boot
+
+
+
+2016-07-04T07:43:38.434469Z
+2
+Arthur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f6bd7fe3-b95f-5246-83b4-222a0ba94597
+
+beagle_x15
+dir
+
+dra7xx
+dir
+
+omap5_uevm
+dir
+
+beagle
+dir
+
+am335x
+dir
+
+sdp3430
+dir
+
+sdp4430
+dir
+
+ti814x
+dir
+
+panda
+dir
+
+ti816x
+dir
+
+am43xx
+dir
+
+am3517crane
+dir
+
+ks2_evm
+dir
+
+evm
+dir
+

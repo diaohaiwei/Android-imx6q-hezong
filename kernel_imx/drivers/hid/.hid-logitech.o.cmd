@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-logitech.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/hid/hid-logitech.o drivers/hid/hid-lg.o drivers/hid/hid-lgff.o drivers/hid/hid-lg2ff.o drivers/hid/hid-lg3ff.o drivers/hid/hid-lg4ff.o 

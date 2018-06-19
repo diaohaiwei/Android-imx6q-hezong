@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs
+END
+mx6slevkandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6slevkandroid_defconfig
+END
+mx6qpsabreauto_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabreauto_nand_defconfig
+END
+mx6qpsabreautoandroid_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabreautoandroid_nand_defconfig
+END
+mx6qpsabreautoandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabreautoandroid_defconfig
+END
+mx6qpsabresd_sata_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabresd_sata_defconfig
+END
+mx6sxsabresd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabresd_defconfig
+END
+mx6dlsabresd_epdc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlsabresd_epdc_defconfig
+END
+mx6qpsabreauto_eimnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabreauto_eimnor_defconfig
+END
+mx6qsabreauto_spinor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabreauto_spinor_defconfig
+END
+mx6sxsabreauto_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabreauto_nand_defconfig
+END
+mx6sxsabreautoandroid_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabreautoandroid_nand_defconfig
+END
+mx6sxsabreautoandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabreautoandroid_defconfig
+END
+mx6dlsabreauto_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlsabreauto_defconfig
+END
+mx6qsabresdandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabresdandroid_defconfig
+END
+mx6dlsabreauto_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlsabreauto_nand_defconfig
+END
+mx6qsabreauto_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabreauto_defconfig
+END
+mx6dlsabreautoandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlsabreautoandroid_defconfig
+END
+mx6qarm2_pop_lpddr2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qarm2_pop_lpddr2_defconfig
+END
+mx6sxsabresd_spl_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabresd_spl_defconfig
+END
+mx6sxsabreauto_qspi1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabreauto_qspi1_defconfig
+END
+mx6qsabreauto_sata_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabreauto_sata_defconfig
+END
+mx6dlsabreauto_eimnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlsabreauto_eimnor_defconfig
+END
+mx6slevk_spinor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6slevk_spinor_defconfig
+END
+mx6slevk_epdc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6slevk_epdc_defconfig
+END
+mx6solosabresd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6solosabresd_defconfig
+END
+mx6qpsabreauto_spinor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabreauto_spinor_defconfig
+END
+mx6sxsabresd_m4fastup_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabresd_m4fastup_defconfig
+END
+mx6qarm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qarm2_defconfig
+END
+mx6solosabreauto_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6solosabreauto_nand_defconfig
+END
+mx6solosabreautoandroid_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6solosabreautoandroid_nand_defconfig
+END
+mx6solosabreautoandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6solosabreautoandroid_defconfig
+END
+mx6slevk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6slevk_defconfig
+END
+mx6qpsabresdandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabresdandroid_defconfig
+END
+mx6qarm2_pop_lpddr2_revb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qarm2_pop_lpddr2_revb_defconfig
+END
+mx6qpsabreauto_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabreauto_defconfig
+END
+mx6dlarm2_lpddr2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlarm2_lpddr2_defconfig
+END
+mx6qarm2_lpddr2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qarm2_lpddr2_defconfig
+END
+mx6qsabrelite_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabrelite_defconfig
+END
+mx6solosabreauto_eimnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6solosabreauto_eimnor_defconfig
+END
+mx6qpsabreauto_sata_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabreauto_sata_defconfig
+END
+mx6sxsabresdandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabresdandroid_defconfig
+END
+mx6dlsabreauto_spinor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlsabreauto_spinor_defconfig
+END
+mx6sxsabresd_emmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabresd_emmc_defconfig
+END
+mx6sxsabreauto_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabreauto_defconfig
+END
+mx6sabresd_spl_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sabresd_spl_defconfig
+END
+mx6dlsabresd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlsabresd_defconfig
+END
+mx6dlsabresdandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlsabresdandroid_defconfig
+END
+mx6qsabresd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabresd_defconfig
+END
+mx6qsabreauto_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabreauto_nand_defconfig
+END
+mx6dlsabreautoandroid_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlsabreautoandroid_nand_defconfig
+END
+mx6qsabreautoandroid_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabreautoandroid_nand_defconfig
+END
+mx6qsabreautoandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabreautoandroid_defconfig
+END
+mx6solosabreauto_spinor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6solosabreauto_spinor_defconfig
+END
+mx6qsabresd_sata_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabresd_sata_defconfig
+END
+mx6sxsabresd_qspi2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6sxsabresd_qspi2_defconfig
+END
+mx6qsabreauto_eimnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qsabreauto_eimnor_defconfig
+END
+mx6dlarm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6dlarm2_defconfig
+END
+mx6solosabresdandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6solosabresdandroid_defconfig
+END
+mx6solosabreauto_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6solosabreauto_defconfig
+END
+mx6qpsabresd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/mx6qpsabresd_defconfig
+END

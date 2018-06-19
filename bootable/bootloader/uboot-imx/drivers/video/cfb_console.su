@@ -1,0 +1,16 @@
+cfb_console.c:1262:13:draw_bitmap	24	static
+cfb_console.c:878:13:console_newline.constprop	12	static
+cfb_console.c:944:13:video_putc	32	static
+cfb_console.c:1158:13:video_puts	24	static
+cfb_console.c:430:12:board_cfb_skip	0	static
+cfb_console.c:1180:13:video_set_lut	0	static
+cfb_console.c:1299:12:display_rle8_bitmap	1088	static
+cfb_console.c:1447:5:video_display_bitmap	48	static
+cfb_console.c:2133:6:video_clear	0	static
+cfb_console.c:2261:12:board_video_skip	0	static
+cfb_console.c:2267:5:drv_video_init	104	static
+cfb_console.c:2313:6:video_position_cursor	0	static
+cfb_console.c:2319:5:video_get_pixel_width	0	static
+cfb_console.c:2324:5:video_get_pixel_height	0	static
+cfb_console.c:2329:5:video_get_screen_rows	0	static
+cfb_console.c:2334:5:video_get_screen_columns	0	static

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x
+END
+6x_bootscript_android_recovery.txt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/6x_bootscript_android_recovery.txt
+END
+800mhz_2x128mx16.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/800mhz_2x128mx16.cfg
+END
+ddr-setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/ddr-setup.cfg
+END
+800mhz_4x128mx16.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/800mhz_4x128mx16.cfg
+END
+800mhz_2x256mx16.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/800mhz_2x256mx16.cfg
+END
+800mhz_4x256mx16.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/800mhz_4x256mx16.cfg
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/MAINTAINERS
+END
+clocks.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/clocks.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/Kconfig
+END
+README.mx6qsabrelite
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/README.mx6qsabrelite
+END
+6x_upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/6x_upgrade.txt
+END
+nitrogen6dl2g.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/nitrogen6dl2g.cfg
+END
+6x_bootscript_android.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/6x_bootscript_android.txt
+END
+6x_bootscript.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/6x_bootscript.txt
+END
+nitrogen6q2g.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/nitrogen6q2g.cfg
+END
+nitrogen6s1g.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/nitrogen6s1g.cfg
+END
+nitrogen6x.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/nitrogen6x.c
+END
+nitrogen6dl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/nitrogen6dl.cfg
+END
+nitrogen6q.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/nitrogen6q.cfg
+END
+1066mhz_4x128mx16.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/1066mhz_4x128mx16.cfg
+END
+nitrogen6s.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/nitrogen6s.cfg
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/README
+END
+1066mhz_4x256mx16.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/board/bak/boundary/nitrogen6x/1066mhz_4x256mx16.cfg
+END

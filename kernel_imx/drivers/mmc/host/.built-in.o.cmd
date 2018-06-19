@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/mmc/host/built-in.o drivers/mmc/host/mxcmmc.o drivers/mmc/host/sdhci.o drivers/mmc/host/ushc.o drivers/mmc/host/sdhci-pltfm.o drivers/mmc/host/sdhci-esdhc-imx.o 

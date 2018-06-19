@@ -1,0 +1,1 @@
+cmd_fs/notify/fanotify/built-in.o :=  rm -f fs/notify/fanotify/built-in.o; /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ar rcsD fs/notify/fanotify/built-in.o

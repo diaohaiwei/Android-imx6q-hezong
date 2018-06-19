@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/tda18271.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/media/tuners/tda18271.o drivers/media/tuners/tda18271-maps.o drivers/media/tuners/tda18271-common.o drivers/media/tuners/tda18271-fe.o 

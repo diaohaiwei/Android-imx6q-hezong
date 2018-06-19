@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/smsc/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/net/ethernet/smsc/built-in.o drivers/net/ethernet/smsc/smc91x.o drivers/net/ethernet/smsc/smc911x.o drivers/net/ethernet/smsc/smsc911x.o 

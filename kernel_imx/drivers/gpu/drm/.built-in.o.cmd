@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/gpu/drm/built-in.o drivers/gpu/drm/drm.o drivers/gpu/drm/vivante/built-in.o drivers/gpu/drm/i2c/built-in.o drivers/gpu/drm/panel/built-in.o drivers/gpu/drm/bridge/built-in.o 

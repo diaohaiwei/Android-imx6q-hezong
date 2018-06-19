@@ -1,0 +1,1 @@
+cmd_drivers/mtd/nand/gpmi-nand/gpmi_nand.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/mtd/nand/gpmi-nand/gpmi_nand.o drivers/mtd/nand/gpmi-nand/gpmi-nand.o drivers/mtd/nand/gpmi-nand/gpmi-lib.o 

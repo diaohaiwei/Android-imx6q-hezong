@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/omap2/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/video/fbdev/omap2/built-in.o drivers/video/fbdev/omap2/dss/built-in.o drivers/video/fbdev/omap2/displays-new/built-in.o 

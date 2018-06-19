@@ -1,0 +1,1 @@
+cmd_sound/soc/fsl/snd-soc-imx-sgtl5000.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o sound/soc/fsl/snd-soc-imx-sgtl5000.o sound/soc/fsl/imx-sgtl5000.o 

@@ -1,0 +1,1 @@
+cmd_net/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld.bfd     -r -o net/built-in.o net/checksum.o net/arp.o net/bootp.o net/eth.o net/net.o net/nfs.o net/ping.o net/tftp.o 

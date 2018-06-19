@@ -1,0 +1,1 @@
+cmd_net/can/can.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o net/can/can.o net/can/af_can.o net/can/proc.o 

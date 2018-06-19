@@ -1,0 +1,1 @@
+cmd_drivers/ata/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/ata/built-in.o drivers/ata/libata.o drivers/ata/ahci_platform.o drivers/ata/libahci.o drivers/ata/libahci_platform.o drivers/ata/ahci_imx.o drivers/ata/pata_imx.o 

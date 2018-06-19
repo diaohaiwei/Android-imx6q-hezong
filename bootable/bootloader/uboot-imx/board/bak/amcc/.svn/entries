@@ -1,0 +1,82 @@
+10
+
+dir
+3
+http://192.168.1.8/svn/I.MX6_u-boot/trunk/u-boot-android-2015.04-imx/board/bak/amcc
+http://192.168.1.8/svn/I.MX6_u-boot
+
+
+
+2016-07-04T07:43:38.434469Z
+2
+Arthur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f6bd7fe3-b95f-5246-83b4-222a0ba94597
+
+acadia
+dir
+
+redwood
+dir
+
+yucca
+dir
+
+sequoia
+dir
+
+katmai
+dir
+
+bubinga
+dir
+
+canyonlands
+dir
+
+taihu
+dir
+
+ocotea
+dir
+
+makalu
+dir
+
+walnut
+dir
+
+kilauea
+dir
+
+ebony
+dir
+
+taishan
+dir
+
+common
+dir
+
+yosemite
+dir
+
+luan
+dir
+
+bamboo
+dir
+

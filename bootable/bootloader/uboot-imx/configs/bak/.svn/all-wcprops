@@ -1,0 +1,6671 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak
+END
+snow_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/snow_defconfig
+END
+am335x_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am335x_evm_defconfig
+END
+cm-bf537e_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm-bf537e_defconfig
+END
+tt01_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tt01_defconfig
+END
+titanium_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/titanium_defconfig
+END
+flea3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/flea3_defconfig
+END
+P1020RDB-PD_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PD_NAND_defconfig
+END
+spear300_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear300_nand_defconfig
+END
+sbc8641d_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc8641d_defconfig
+END
+BSC9132QDS_SPIFLASH_DDRCLK133_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_SPIFLASH_DDRCLK133_defconfig
+END
+platinum_titanium_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/platinum_titanium_defconfig
+END
+Chuwi_V7_CW0825_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Chuwi_V7_CW0825_defconfig
+END
+T2080RDB_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080RDB_NAND_defconfig
+END
+ac14xx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ac14xx_defconfig
+END
+walnut_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/walnut_defconfig
+END
+pogo_e02_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pogo_e02_defconfig
+END
+Marsboard_A10_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Marsboard_A10_defconfig
+END
+dbau1100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dbau1100_defconfig
+END
+usb_a9263_dataflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/usb_a9263_dataflash_defconfig
+END
+riotboard_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/riotboard_defconfig
+END
+MPC8536DS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8536DS_SPIFLASH_defconfig
+END
+T2081QDS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2081QDS_NAND_defconfig
+END
+tk71_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tk71_defconfig
+END
+bcm11130_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm11130_nand_defconfig
+END
+br4_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/br4_defconfig
+END
+Linksprite_pcDuino3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Linksprite_pcDuino3_defconfig
+END
+trimslice_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/trimslice_defconfig
+END
+BSC9132QDS_SPIFLASH_DDRCLK100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_SPIFLASH_DDRCLK100_defconfig
+END
+sh7752evb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sh7752evb_defconfig
+END
+mx7d_19x19_lpddr3_arm2_eimnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_19x19_lpddr3_arm2_eimnor_defconfig
+END
+MPC8315ERDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8315ERDB_defconfig
+END
+C29XPCIE_SPIFLASH_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/C29XPCIE_SPIFLASH_SECBOOT_defconfig
+END
+spear320_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear320_defconfig
+END
+stv0991_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/stv0991_defconfig
+END
+devkit3250_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/devkit3250_defconfig
+END
+da850evm_direct_nor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/da850evm_direct_nor_defconfig
+END
+pcs440ep_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pcs440ep_defconfig
+END
+T1024RDB_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024RDB_NAND_defconfig
+END
+M5485FFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5485FFE_defconfig
+END
+bf506f-ezkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf506f-ezkit_defconfig
+END
+tqma6s_mba6_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tqma6s_mba6_mmc_defconfig
+END
+am335x_boneblack_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am335x_boneblack_defconfig
+END
+P1010RDB-PA_36BIT_NOR_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_36BIT_NOR_SECBOOT_defconfig
+END
+P2020RDB-PC_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2020RDB-PC_defconfig
+END
+mx6sx_17x17_arm2_qspi2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_17x17_arm2_qspi2_defconfig
+END
+M54451EVB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54451EVB_defconfig
+END
+vpac270_nor_256_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vpac270_nor_256_defconfig
+END
+at91sam9rlek_dataflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9rlek_dataflash_defconfig
+END
+ids8313_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ids8313_defconfig
+END
+O2MNT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O2MNT_defconfig
+END
+davinci_dm355evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/davinci_dm355evm_defconfig
+END
+pcm051_rev3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pcm051_rev3_defconfig
+END
+TQM5200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM5200_defconfig
+END
+xilinx-ppc440-generic_flash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xilinx-ppc440-generic_flash_defconfig
+END
+P1020UTM-PC_36BIT_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020UTM-PC_36BIT_SDCARD_defconfig
+END
+M54418TWR_nand_rmii_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54418TWR_nand_rmii_defconfig
+END
+nokia_rx51_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nokia_rx51_defconfig
+END
+grsim_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/grsim_defconfig
+END
+bcm958300k-ns_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm958300k-ns_defconfig
+END
+mk802ii_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mk802ii_defconfig
+END
+sequoia_ramboot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sequoia_ramboot_defconfig
+END
+bcm958622hr_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm958622hr_defconfig
+END
+adp-ag101p_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/adp-ag101p_defconfig
+END
+TQM5200_B_HIGHBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM5200_B_HIGHBOOT_defconfig
+END
+MPC8610HPCD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8610HPCD_defconfig
+END
+PATI_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/PATI_defconfig
+END
+P5020DS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5020DS_defconfig
+END
+nhk8815_onenand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nhk8815_onenand_defconfig
+END
+TQM823L_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM823L_defconfig
+END
+TQM5200_STK100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM5200_STK100_defconfig
+END
+sama5d3_xplained_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d3_xplained_mmc_defconfig
+END
+maltael_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/maltael_defconfig
+END
+VCMA9_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/VCMA9_defconfig
+END
+lwmon5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/lwmon5_defconfig
+END
+bf537-minotaur_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf537-minotaur_defconfig
+END
+motionpro_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/motionpro_defconfig
+END
+ea20_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ea20_defconfig
+END
+ve8313_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ve8313_defconfig
+END
+da850_am18xxevm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/da850_am18xxevm_defconfig
+END
+MPC8555CDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8555CDS_defconfig
+END
+mgcoge_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mgcoge_defconfig
+END
+k2hk_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/k2hk_evm_defconfig
+END
+mx6sx_19x19_ddr3_arm2_eimnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_19x19_ddr3_arm2_eimnor_defconfig
+END
+mx6ul_9x9_evk_qspi1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_9x9_evk_qspi1_defconfig
+END
+kmlion1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmlion1_defconfig
+END
+rut_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/rut_defconfig
+END
+ocotea_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ocotea_defconfig
+END
+at91sam9g20ek_dataflash_cs1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9g20ek_dataflash_cs1_defconfig
+END
+Colombus_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Colombus_defconfig
+END
+M54455EVB_i66_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54455EVB_i66_defconfig
+END
+ms7720se_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ms7720se_defconfig
+END
+atstk1002_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/atstk1002_defconfig
+END
+ls1021aqds_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021aqds_nand_defconfig
+END
+M5485AFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5485AFE_defconfig
+END
+controlcenterd_TRAILBLAZER_DEVELOP_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/controlcenterd_TRAILBLAZER_DEVELOP_defconfig
+END
+at91sam9x5ek_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9x5ek_mmc_defconfig
+END
+sh7757lcr_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sh7757lcr_defconfig
+END
+BSC9132QDS_NAND_DDRCLK100_SECURE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_NAND_DDRCLK100_SECURE_defconfig
+END
+kmeter1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmeter1_defconfig
+END
+colibri_t30_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/colibri_t30_defconfig
+END
+tseries_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tseries_mmc_defconfig
+END
+P1020RDB-PC_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PC_SDCARD_defconfig
+END
+kmsupx5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmsupx5_defconfig
+END
+M5249EVB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5249EVB_defconfig
+END
+T1024RDB_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024RDB_SDCARD_defconfig
+END
+cm_fx6_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm_fx6_defconfig
+END
+T2080QDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080QDS_defconfig
+END
+stamp9g20_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/stamp9g20_defconfig
+END
+ls1021atwr_nor_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021atwr_nor_SECURE_BOOT_defconfig
+END
+P1023RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1023RDB_defconfig
+END
+at91sam9x5ek_spiflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9x5ek_spiflash_defconfig
+END
+malta_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/malta_defconfig
+END
+P1020MBG-PC_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020MBG-PC_36BIT_defconfig
+END
+at91sam9m10g45ek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9m10g45ek_nandflash_defconfig
+END
+digsy_mtc_RAMBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/digsy_mtc_RAMBOOT_defconfig
+END
+dig297_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dig297_defconfig
+END
+spear600_usbtty_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear600_usbtty_defconfig
+END
+kilauea_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kilauea_defconfig
+END
+cm-bf527_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm-bf527_defconfig
+END
+ipam390_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ipam390_defconfig
+END
+cm-bf548_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm-bf548_defconfig
+END
+P2041RDB_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2041RDB_SPIFLASH_defconfig
+END
+tqma6s_mba6_spi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tqma6s_mba6_spi_defconfig
+END
+M5475EFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5475EFE_defconfig
+END
+favr-32-ezkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/favr-32-ezkit_defconfig
+END
+T2080RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080RDB_defconfig
+END
+P1010RDB-PA_NAND_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_NAND_SECBOOT_defconfig
+END
+ti814x_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ti814x_evm_defconfig
+END
+O2DNT2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O2DNT2_defconfig
+END
+mx6ul_14x14_evk_ddr_eol_android_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_evk_ddr_eol_android_defconfig
+END
+palmld_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/palmld_defconfig
+END
+odroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/odroid_defconfig
+END
+UTOO_P66_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/UTOO_P66_defconfig
+END
+bcm28155_ap_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm28155_ap_defconfig
+END
+dbau1550_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dbau1550_defconfig
+END
+BSC9131RDB_NAND_SYSCLK100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9131RDB_NAND_SYSCLK100_defconfig
+END
+CPCI4052_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/CPCI4052_defconfig
+END
+ipek01_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ipek01_defconfig
+END
+h2200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/h2200_defconfig
+END
+integratorcp_cm920t_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/integratorcp_cm920t_defconfig
+END
+twister_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/twister_defconfig
+END
+zynq_zybo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zynq_zybo_defconfig
+END
+bubinga_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bubinga_defconfig
+END
+snapper9g20_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/snapper9g20_defconfig
+END
+bf609-ezkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf609-ezkit_defconfig
+END
+smdk5250_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/smdk5250_defconfig
+END
+TZX-Q8-713B7_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TZX-Q8-713B7_defconfig
+END
+MPC8536DS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8536DS_SDCARD_defconfig
+END
+TQM862L_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM862L_defconfig
+END
+P5020DS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5020DS_SPIFLASH_defconfig
+END
+zeus_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zeus_defconfig
+END
+P1020MBG-PC_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020MBG-PC_defconfig
+END
+vpac270_nor_128_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vpac270_nor_128_defconfig
+END
+P1020UTM-PC_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020UTM-PC_36BIT_defconfig
+END
+vct_platinum_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_platinum_defconfig
+END
+at91sam9n12ek_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9n12ek_mmc_defconfig
+END
+caddy2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/caddy2_defconfig
+END
+maxbcm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/maxbcm_defconfig
+END
+at91rm9200ek_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91rm9200ek_defconfig
+END
+MPC832XEMDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC832XEMDS_defconfig
+END
+cm-bf533_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm-bf533_defconfig
+END
+jupiter_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/jupiter_defconfig
+END
+dalmore_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dalmore_defconfig
+END
+BSC9132QDS_SDCARD_DDRCLK133_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_SDCARD_DDRCLK133_defconfig
+END
+integratorap_cm720t_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/integratorap_cm720t_defconfig
+END
+T1024RDB_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024RDB_SPIFLASH_defconfig
+END
+mx6sx_19x19_ddr3_arm2_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_19x19_ddr3_arm2_nand_defconfig
+END
+mecp5123_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mecp5123_defconfig
+END
+silk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/silk_defconfig
+END
+ls1021aqds_nor_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021aqds_nor_SECURE_BOOT_defconfig
+END
+B4420QDS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/B4420QDS_NAND_defconfig
+END
+P1010RDB-PB_NOR_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_NOR_defconfig
+END
+bf527-sdp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf527-sdp_defconfig
+END
+bf548-ezkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf548-ezkit_defconfig
+END
+P2041RDB_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2041RDB_SDCARD_defconfig
+END
+shmin_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/shmin_defconfig
+END
+P1010RDB-PB_36BIT_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_36BIT_SDCARD_defconfig
+END
+devconcenter_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/devconcenter_defconfig
+END
+dreamplug_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dreamplug_defconfig
+END
+BSC9132QDS_SDCARD_DDRCLK100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_SDCARD_DDRCLK100_defconfig
+END
+netspace_mini_v2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/netspace_mini_v2_defconfig
+END
+mx6ul_14x14_ddr3_arm2_qspi1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_ddr3_arm2_qspi1_defconfig
+END
+am335x_evm_spiboot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am335x_evm_spiboot_defconfig
+END
+ls1021aqds_ddr4_nor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021aqds_ddr4_nor_defconfig
+END
+tseries_spi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tseries_spi_defconfig
+END
+ls2085a_emu_D4_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls2085a_emu_D4_defconfig
+END
+zynq_zc70x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zynq_zc70x_defconfig
+END
+vct_platinum_small_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_platinum_small_defconfig
+END
+A20-OLinuXino_MICRO_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/A20-OLinuXino_MICRO_defconfig
+END
+P3041DS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P3041DS_defconfig
+END
+M5329AFEE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5329AFEE_defconfig
+END
+zynq_zed_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zynq_zed_defconfig
+END
+A13-OLinuXino_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/A13-OLinuXino_defconfig
+END
+P1010RDB-PA_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_SDCARD_defconfig
+END
+integratorcp_cm946es_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/integratorcp_cm946es_defconfig
+END
+omap5_uevm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap5_uevm_defconfig
+END
+kmcoge5ne_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmcoge5ne_defconfig
+END
+MPC8541CDS_legacy_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8541CDS_legacy_defconfig
+END
+M5253DEMO_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5253DEMO_defconfig
+END
+rsk7264_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/rsk7264_defconfig
+END
+T4240QDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4240QDS_defconfig
+END
+BSC9132QDS_NOR_DDRCLK100_SECURE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_NOR_DDRCLK100_SECURE_defconfig
+END
+P1020UTM-PC_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020UTM-PC_defconfig
+END
+cam_enc_4xx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cam_enc_4xx_defconfig
+END
+M53017EVB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M53017EVB_defconfig
+END
+cairo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cairo_defconfig
+END
+apalis_t30_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/apalis_t30_defconfig
+END
+bf518f-ezbrd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf518f-ezbrd_defconfig
+END
+net2big_v2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/net2big_v2_defconfig
+END
+nios2-generic_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nios2-generic_defconfig
+END
+BSC9131RDB_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9131RDB_SPIFLASH_defconfig
+END
+cpu9260_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpu9260_defconfig
+END
+mx6ul_14x14_ddr3_arm2_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_ddr3_arm2_nand_defconfig
+END
+kmsuv31_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmsuv31_defconfig
+END
+eb_cpux9k2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/eb_cpux9k2_defconfig
+END
+rpi_2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/rpi_2_defconfig
+END
+T1024QDS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024QDS_SECURE_BOOT_defconfig
+END
+mx6ul_14x14_evk_ddr_eol_brillo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_evk_ddr_eol_brillo_defconfig
+END
+P1010RDB-PB_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_SPIFLASH_defconfig
+END
+MPC8349ITXGP_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8349ITXGP_defconfig
+END
+P1010RDB-PB_NOR_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_NOR_SECBOOT_defconfig
+END
+xpedite537x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xpedite537x_defconfig
+END
+O2I_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O2I_defconfig
+END
+bamboo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bamboo_defconfig
+END
+at91sam9xeek_dataflash_cs0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9xeek_dataflash_cs0_defconfig
+END
+kzm9g_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kzm9g_defconfig
+END
+redwood_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/redwood_defconfig
+END
+M5485GFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5485GFE_defconfig
+END
+smdk2410_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/smdk2410_defconfig
+END
+T4240RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4240RDB_defconfig
+END
+sbc8548_PCI_66_PCIE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc8548_PCI_66_PCIE_defconfig
+END
+porter_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/porter_defconfig
+END
+cpu9260_128M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpu9260_128M_defconfig
+END
+at91sam9g20ek_2mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9g20ek_2mmc_defconfig
+END
+B4860QDS_SRIO_PCIE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/B4860QDS_SRIO_PCIE_BOOT_defconfig
+END
+T1024RDB_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024RDB_SECURE_BOOT_defconfig
+END
+nitrogen6q_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nitrogen6q_defconfig
+END
+spear320_pnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear320_pnor_defconfig
+END
+sh7753evb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sh7753evb_defconfig
+END
+P2041RDB_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2041RDB_NAND_defconfig
+END
+bf527-ezkit-v2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf527-ezkit-v2_defconfig
+END
+O2MNT_O2M113_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O2MNT_O2M113_defconfig
+END
+versatileab_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/versatileab_defconfig
+END
+P1022DS_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1022DS_36BIT_defconfig
+END
+P1021RDB-PC_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1021RDB-PC_36BIT_defconfig
+END
+T1040QDS_D4_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1040QDS_D4_defconfig
+END
+davinci_schmoogie_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/davinci_schmoogie_defconfig
+END
+kmvect1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmvect1_defconfig
+END
+adp-ag101_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/adp-ag101_defconfig
+END
+bf561-acvilon_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf561-acvilon_defconfig
+END
+calimain_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/calimain_defconfig
+END
+BSC9132QDS_NAND_DDRCLK133_SECURE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_NAND_DDRCLK133_SECURE_defconfig
+END
+trats2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/trats2_defconfig
+END
+canmb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/canmb_defconfig
+END
+nitrogen6dl2g_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nitrogen6dl2g_defconfig
+END
+T2080QDS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080QDS_NAND_defconfig
+END
+kmcoge4_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmcoge4_defconfig
+END
+P1020RDB-PC_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PC_defconfig
+END
+meesc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/meesc_defconfig
+END
+xilinx-ppc440-generic_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xilinx-ppc440-generic_defconfig
+END
+woodburn_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/woodburn_defconfig
+END
+ls1021aqds_nor_lpuart_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021aqds_nor_lpuart_defconfig
+END
+sbc8548_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc8548_defconfig
+END
+spear600_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear600_defconfig
+END
+sama5d3xek_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d3xek_mmc_defconfig
+END
+nyan-big_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nyan-big_defconfig
+END
+portuxg20_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/portuxg20_defconfig
+END
+am43xx_evm_qspiboot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am43xx_evm_qspiboot_defconfig
+END
+B4860QDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/B4860QDS_defconfig
+END
+P1010RDB-PA_36BIT_NOR_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_36BIT_NOR_defconfig
+END
+mx7dsabresd_epdc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7dsabresd_epdc_defconfig
+END
+bcm911360_entphn-ns_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm911360_entphn-ns_defconfig
+END
+mx31ads_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx31ads_defconfig
+END
+T1024QDS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024QDS_NAND_defconfig
+END
+nitrogen6s1g_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nitrogen6s1g_defconfig
+END
+mx6sx_17x17_arm2_eimnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_17x17_arm2_eimnor_defconfig
+END
+C29XPCIE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/C29XPCIE_defconfig
+END
+P1010RDB-PA_36BIT_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_36BIT_SPIFLASH_defconfig
+END
+T1042RDB_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1042RDB_SECURE_BOOT_defconfig
+END
+xaeniax_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xaeniax_defconfig
+END
+spear310_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear310_nand_defconfig
+END
+O2MNT_O2M110_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O2MNT_O2M110_defconfig
+END
+sama5d3xek_spiflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d3xek_spiflash_defconfig
+END
+vf610twr_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vf610twr_nand_defconfig
+END
+vct_platinumavc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_platinumavc_defconfig
+END
+sbc8548_PCI_33_PCIE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc8548_PCI_33_PCIE_defconfig
+END
+tbs2910_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tbs2910_defconfig
+END
+MPC8313ERDB_66_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8313ERDB_66_defconfig
+END
+spear320_usbtty_pnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear320_usbtty_pnor_defconfig
+END
+TQM850M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM850M_defconfig
+END
+axs103_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/axs103_defconfig
+END
+at91sam9g20ek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9g20ek_nandflash_defconfig
+END
+seaboard_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/seaboard_defconfig
+END
+cgtqmx6qeval_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cgtqmx6qeval_defconfig
+END
+at91sam9rlek_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9rlek_mmc_defconfig
+END
+MPC8308RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8308RDB_defconfig
+END
+P1020RDB-PC_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PC_NAND_defconfig
+END
+M5485BFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5485BFE_defconfig
+END
+MPC8313ERDB_33_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8313ERDB_33_defconfig
+END
+digsy_mtc_rev5_RAMBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/digsy_mtc_rev5_RAMBOOT_defconfig
+END
+MSI_Primo81_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MSI_Primo81_defconfig
+END
+spear320_usbtty_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear320_usbtty_defconfig
+END
+TQM885D_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM885D_defconfig
+END
+MPC8568MDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8568MDS_defconfig
+END
+neo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/neo_defconfig
+END
+at91sam9x5ek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9x5ek_nandflash_defconfig
+END
+kwb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kwb_defconfig
+END
+BSC9132QDS_NOR_DDRCLK133_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_NOR_DDRCLK133_defconfig
+END
+P3041DS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P3041DS_SECURE_BOOT_defconfig
+END
+otc570_dataflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/otc570_dataflash_defconfig
+END
+BSC9132QDS_SDCARD_DDRCLK100_SECURE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_SDCARD_DDRCLK100_SECURE_defconfig
+END
+sbc405_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc405_defconfig
+END
+mx51evk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx51evk_defconfig
+END
+birdland_bav335a_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/birdland_bav335a_defconfig
+END
+csb472_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/csb472_defconfig
+END
+cobra5272_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cobra5272_defconfig
+END
+tcm-bf537_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tcm-bf537_defconfig
+END
+mx6ul_14x14_ddr3_arm2_emmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_ddr3_arm2_emmc_defconfig
+END
+km_kirkwood_pci_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/km_kirkwood_pci_defconfig
+END
+edminiv2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/edminiv2_defconfig
+END
+BSC9132QDS_NOR_DDRCLK100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_NOR_DDRCLK100_defconfig
+END
+A10s-OLinuXino-M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/A10s-OLinuXino-M_defconfig
+END
+Mele_M5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Mele_M5_defconfig
+END
+P1021RDB-PC_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1021RDB-PC_SPIFLASH_defconfig
+END
+P1022DS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1022DS_SPIFLASH_defconfig
+END
+T4240EMU_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4240EMU_defconfig
+END
+axm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/axm_defconfig
+END
+stxssa_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/stxssa_defconfig
+END
+T2081QDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2081QDS_defconfig
+END
+fo300_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/fo300_defconfig
+END
+da850evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/da850evm_defconfig
+END
+i12-tvbox_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/i12-tvbox_defconfig
+END
+zynq_microzed_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zynq_microzed_defconfig
+END
+devkit8000_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/devkit8000_defconfig
+END
+P1024RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1024RDB_defconfig
+END
+secomx6quq7_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/secomx6quq7_defconfig
+END
+M5475FFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5475FFE_defconfig
+END
+B4860QDS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/B4860QDS_SPIFLASH_defconfig
+END
+T4160QDS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4160QDS_SDCARD_defconfig
+END
+cam5200_niosflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cam5200_niosflash_defconfig
+END
+edb9315a_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/edb9315a_defconfig
+END
+P2041RDB_SRIO_PCIE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2041RDB_SRIO_PCIE_BOOT_defconfig
+END
+P1010RDB-PA_36BIT_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_36BIT_SDCARD_defconfig
+END
+dns325_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dns325_defconfig
+END
+versatilepb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/versatilepb_defconfig
+END
+xpedite520x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xpedite520x_defconfig
+END
+zynq_zc770_xm012_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zynq_zc770_xm012_defconfig
+END
+arcangel4-be_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/arcangel4-be_defconfig
+END
+fx12mm_flash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/fx12mm_flash_defconfig
+END
+MPC8323ERDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8323ERDB_defconfig
+END
+P5020DS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5020DS_NAND_defconfig
+END
+cpu9G20_nand_128M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpu9G20_nand_128M_defconfig
+END
+gr_ep2s60_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/gr_ep2s60_defconfig
+END
+mimc200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mimc200_defconfig
+END
+mt_ventoux_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mt_ventoux_defconfig
+END
+P1020UTM-PC_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020UTM-PC_SDCARD_defconfig
+END
+highbank_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/highbank_defconfig
+END
+omap3_beagle_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_beagle_defconfig
+END
+omap3_evm_quick_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_evm_quick_mmc_defconfig
+END
+MPC8349EMDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8349EMDS_defconfig
+END
+usbarmory_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/usbarmory_defconfig
+END
+T4240QDS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4240QDS_NAND_defconfig
+END
+woodburn_sd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/woodburn_sd_defconfig
+END
+MPC832XEMDS_HOST_66_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC832XEMDS_HOST_66_defconfig
+END
+bf537-pnav_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf537-pnav_defconfig
+END
+mx6ul_9x9_evk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_9x9_evk_defconfig
+END
+am335x_igep0033_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am335x_igep0033_defconfig
+END
+p3p440_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/p3p440_defconfig
+END
+bf525-ucr2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf525-ucr2_defconfig
+END
+BSC9132QDS_NOR_DDRCLK133_SECURE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_NOR_DDRCLK133_SECURE_defconfig
+END
+T2080RDB_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080RDB_SPIFLASH_defconfig
+END
+at91sam9263ek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9263ek_nandflash_defconfig
+END
+ot1200_spl_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ot1200_spl_defconfig
+END
+mx6ul_14x14_lpddr2_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_lpddr2_arm2_defconfig
+END
+sbc8349_PCI_66_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc8349_PCI_66_defconfig
+END
+am335x_evm_nor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am335x_evm_nor_defconfig
+END
+pcm030_LOWBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pcm030_LOWBOOT_defconfig
+END
+m28evk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/m28evk_defconfig
+END
+mx6sx_14x14_lpddr2_arm2_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_14x14_lpddr2_arm2_nand_defconfig
+END
+afeb9260_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/afeb9260_defconfig
+END
+MPC832XEMDS_HOST_33_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC832XEMDS_HOST_33_defconfig
+END
+qemu_mipsel_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/qemu_mipsel_defconfig
+END
+T1024QDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024QDS_defconfig
+END
+Mele_A1000_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Mele_A1000_defconfig
+END
+P2020RDB-PC_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2020RDB-PC_SPIFLASH_defconfig
+END
+tb100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tb100_defconfig
+END
+rd6281a_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/rd6281a_defconfig
+END
+M5235EVB_Flash32_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5235EVB_Flash32_defconfig
+END
+trats_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/trats_defconfig
+END
+spear310_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear310_defconfig
+END
+alpr_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/alpr_defconfig
+END
+sbc8349_PCI_33_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc8349_PCI_33_defconfig
+END
+arcangel4_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/arcangel4_defconfig
+END
+ap325rxa_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ap325rxa_defconfig
+END
+Linksprite_pcDuino_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Linksprite_pcDuino_defconfig
+END
+PMC440_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/PMC440_defconfig
+END
+vct_platinum_onenand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_platinum_onenand_defconfig
+END
+xilinx-ppc405-generic_flash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xilinx-ppc405-generic_flash_defconfig
+END
+P1020RDB-PD_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PD_SDCARD_defconfig
+END
+galileo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/galileo_defconfig
+END
+BSC9131RDB_SPIFLASH_SYSCLK100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9131RDB_SPIFLASH_SYSCLK100_defconfig
+END
+P5040DS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5040DS_SDCARD_defconfig
+END
+integratorap_cm926ejs_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/integratorap_cm926ejs_defconfig
+END
+ph1_sld8_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ph1_sld8_defconfig
+END
+P1010RDB-PA_NOR_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_NOR_SECBOOT_defconfig
+END
+colibri_pxa270_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/colibri_pxa270_defconfig
+END
+Inet_86VS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Inet_86VS_defconfig
+END
+dlvision_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dlvision_defconfig
+END
+glacier_ramboot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/glacier_ramboot_defconfig
+END
+vct_platinumavc_onenand_small_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_platinumavc_onenand_small_defconfig
+END
+imx31_phycore_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/imx31_phycore_defconfig
+END
+cm_t54_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm_t54_defconfig
+END
+B4420QDS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/B4420QDS_SPIFLASH_defconfig
+END
+M5475AFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5475AFE_defconfig
+END
+P1010RDB-PA_36BIT_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_36BIT_NAND_defconfig
+END
+sansa_fuze_plus_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sansa_fuze_plus_defconfig
+END
+plutux_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/plutux_defconfig
+END
+T1024RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024RDB_defconfig
+END
+BSC9131RDB_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9131RDB_NAND_defconfig
+END
+ima3-mx53_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ima3-mx53_defconfig
+END
+mx7d_19x19_lpddr3_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_19x19_lpddr3_arm2_defconfig
+END
+MPC8548CDS_legacy_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8548CDS_legacy_defconfig
+END
+P1025RDB_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1025RDB_SPIFLASH_defconfig
+END
+rainier_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/rainier_defconfig
+END
+TTTech_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TTTech_defconfig
+END
+openrisc-generic_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/openrisc-generic_defconfig
+END
+odroid-xu3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/odroid-xu3_defconfig
+END
+P2041RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2041RDB_defconfig
+END
+sama5d3_xplained_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d3_xplained_nandflash_defconfig
+END
+sbc35_a9g20_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc35_a9g20_nandflash_defconfig
+END
+P1020RDB-PC_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PC_36BIT_defconfig
+END
+M5329BFEE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5329BFEE_defconfig
+END
+P1022DS_36BIT_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1022DS_36BIT_NAND_defconfig
+END
+P1021RDB-PC_36BIT_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1021RDB-PC_36BIT_NAND_defconfig
+END
+bf527-ezkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf527-ezkit_defconfig
+END
+sama5d4ek_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d4ek_mmc_defconfig
+END
+T1024QDS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024QDS_SPIFLASH_defconfig
+END
+tec-ng_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tec-ng_defconfig
+END
+minnowmax_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/minnowmax_defconfig
+END
+mpc8308_p1m_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mpc8308_p1m_defconfig
+END
+CPCI2DP_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/CPCI2DP_defconfig
+END
+mgcoge3un_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mgcoge3un_defconfig
+END
+taishan_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/taishan_defconfig
+END
+kmsugp1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmsugp1_defconfig
+END
+medcom-wide_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/medcom-wide_defconfig
+END
+MPC8560ADS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8560ADS_defconfig
+END
+P4080DS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P4080DS_SECURE_BOOT_defconfig
+END
+MPC8544DS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8544DS_defconfig
+END
+atstk1004_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/atstk1004_defconfig
+END
+TQM823L_LCD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM823L_LCD_defconfig
+END
+trizepsiv_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/trizepsiv_defconfig
+END
+T1042RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1042RDB_defconfig
+END
+suvd3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/suvd3_defconfig
+END
+T2080QDS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080QDS_SDCARD_defconfig
+END
+M5485HFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5485HFE_defconfig
+END
+spear310_usbtty_pnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear310_usbtty_pnor_defconfig
+END
+sequoia_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sequoia_defconfig
+END
+tny_a9260_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tny_a9260_nandflash_defconfig
+END
+rainier_ramboot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/rainier_ramboot_defconfig
+END
+P1010RDB-PA_36BIT_NAND_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_36BIT_NAND_SECBOOT_defconfig
+END
+netspace_max_v2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/netspace_max_v2_defconfig
+END
+at91sam9g10ek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9g10ek_nandflash_defconfig
+END
+T2081QDS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2081QDS_SPIFLASH_defconfig
+END
+mx28evk_spi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx28evk_spi_defconfig
+END
+MPC8569MDS_ATM_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8569MDS_ATM_defconfig
+END
+P1010RDB-PA_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_SPIFLASH_defconfig
+END
+P4080DS_SRIO_PCIE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P4080DS_SRIO_PCIE_BOOT_defconfig
+END
+vct_premium_small_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_premium_small_defconfig
+END
+mx7d_19x19_lpddr3_arm2_TO_1_0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_19x19_lpddr3_arm2_TO_1_0_defconfig
+END
+am3517_crane_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am3517_crane_defconfig
+END
+P3041DS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P3041DS_SPIFLASH_defconfig
+END
+am335x_boneblack_vboot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am335x_boneblack_vboot_defconfig
+END
+O2DNT2_RAMBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O2DNT2_RAMBOOT_defconfig
+END
+T2080QDS_SRIO_PCIE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080QDS_SRIO_PCIE_BOOT_defconfig
+END
+ecovec_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ecovec_defconfig
+END
+P1010RDB-PA_36BIT_SPIFLASH_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_36BIT_SPIFLASH_SECBOOT_defconfig
+END
+cm5200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm5200_defconfig
+END
+colibri_t20_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/colibri_t20_defconfig
+END
+Hummingbird_A31_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Hummingbird_A31_defconfig
+END
+controlcenterd_36BIT_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/controlcenterd_36BIT_SDCARD_defconfig
+END
+at91sam9g20ek_dataflash_cs0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9g20ek_dataflash_cs0_defconfig
+END
+grsim_leon2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/grsim_leon2_defconfig
+END
+PMC405DE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/PMC405DE_defconfig
+END
+mx7d_19x19_lpddr3_arm2_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_19x19_lpddr3_arm2_nand_defconfig
+END
+vct_premium_onenand_small_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_premium_onenand_small_defconfig
+END
+netspace_lite_v2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/netspace_lite_v2_defconfig
+END
+cpuat91_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpuat91_defconfig
+END
+BSC9132QDS_SDCARD_DDRCLK133_SECURE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_SDCARD_DDRCLK133_SECURE_defconfig
+END
+P1025RDB_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1025RDB_NAND_defconfig
+END
+dnp5370_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dnp5370_defconfig
+END
+P2020RDB-PC_36BIT_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2020RDB-PC_36BIT_NAND_defconfig
+END
+B4420QDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/B4420QDS_defconfig
+END
+mx28evk_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx28evk_nand_defconfig
+END
+wtk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/wtk_defconfig
+END
+tqma6q_mba6_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tqma6q_mba6_mmc_defconfig
+END
+t3corp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/t3corp_defconfig
+END
+zipitz2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zipitz2_defconfig
+END
+M5275EVB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5275EVB_defconfig
+END
+apf27_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/apf27_defconfig
+END
+gplugd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/gplugd_defconfig
+END
+A13-OLinuXinoM_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/A13-OLinuXinoM_defconfig
+END
+sama5d3xek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d3xek_nandflash_defconfig
+END
+pengwyn_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pengwyn_defconfig
+END
+nitrogen6dl_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nitrogen6dl_defconfig
+END
+tao3530_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tao3530_defconfig
+END
+M5272C3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5272C3_defconfig
+END
+P1010RDB-PA_NOR_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_NOR_defconfig
+END
+picosom-imx6ul-qspi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/picosom-imx6ul-qspi_defconfig
+END
+P1010RDB-PB_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_SDCARD_defconfig
+END
+hrcon_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/hrcon_defconfig
+END
+T1040QDS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1040QDS_SECURE_BOOT_defconfig
+END
+canyonlands_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/canyonlands_defconfig
+END
+mx53loco_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx53loco_defconfig
+END
+eb_cpu5282_internal_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/eb_cpu5282_internal_defconfig
+END
+sama5d4_xplained_spiflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d4_xplained_spiflash_defconfig
+END
+TQM860M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM860M_defconfig
+END
+mx51_efikasb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx51_efikasb_defconfig
+END
+corvus_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/corvus_defconfig
+END
+P1021RDB-PC_36BIT_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1021RDB-PC_36BIT_SDCARD_defconfig
+END
+P1022DS_36BIT_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1022DS_36BIT_SDCARD_defconfig
+END
+MiniFAP_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MiniFAP_defconfig
+END
+ot1200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ot1200_defconfig
+END
+stxssa_4M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/stxssa_4M_defconfig
+END
+cpu9G20_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpu9G20_defconfig
+END
+ms7722se_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ms7722se_defconfig
+END
+lsxhl_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/lsxhl_defconfig
+END
+wandboard_solo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/wandboard_solo_defconfig
+END
+P5040DS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5040DS_defconfig
+END
+vexpress_ca15_tc2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vexpress_ca15_tc2_defconfig
+END
+M5485CFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5485CFE_defconfig
+END
+atngw100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/atngw100_defconfig
+END
+P1020RDB-PC_36BIT_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PC_36BIT_NAND_defconfig
+END
+io_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/io_defconfig
+END
+aspenite_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/aspenite_defconfig
+END
+dlvision-10g_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dlvision-10g_defconfig
+END
+P3041DS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P3041DS_SDCARD_defconfig
+END
+am335x_evm_usbspl_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am335x_evm_usbspl_defconfig
+END
+at91sam9263ek_norflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9263ek_norflash_defconfig
+END
+at91sam9g10ek_dataflash_cs3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9g10ek_dataflash_cs3_defconfig
+END
+controlcenterd_TRAILBLAZER_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/controlcenterd_TRAILBLAZER_defconfig
+END
+omap4_panda_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap4_panda_defconfig
+END
+r0p7734_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/r0p7734_defconfig
+END
+C29XPCIE_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/C29XPCIE_NAND_defconfig
+END
+rsk7269_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/rsk7269_defconfig
+END
+sc3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sc3_defconfig
+END
+cpu9G20_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpu9G20_nand_defconfig
+END
+T1040RDB_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1040RDB_SECURE_BOOT_defconfig
+END
+P1010RDB-PB_36BIT_NOR_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_36BIT_NOR_SECBOOT_defconfig
+END
+pm9261_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pm9261_defconfig
+END
+bcm911360_entphn_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm911360_entphn_defconfig
+END
+microblaze-generic_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/microblaze-generic_defconfig
+END
+at91sam9n12ek_spiflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9n12ek_spiflash_defconfig
+END
+sh7763rdp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sh7763rdp_defconfig
+END
+m53evk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/m53evk_defconfig
+END
+vpac270_ond_256_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vpac270_ond_256_defconfig
+END
+M54418TWR_nand_rmii_lowfreq_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54418TWR_nand_rmii_lowfreq_defconfig
+END
+MPC8569MDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8569MDS_defconfig
+END
+snowball_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/snowball_defconfig
+END
+mx6ul_14x14_ddr3_arm2_eimnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_ddr3_arm2_eimnor_defconfig
+END
+TQM866M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM866M_defconfig
+END
+P2041RDB_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2041RDB_SECURE_BOOT_defconfig
+END
+rpi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/rpi_defconfig
+END
+P1022DS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1022DS_defconfig
+END
+P1021RDB-PC_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1021RDB-PC_defconfig
+END
+T1040RDB_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1040RDB_NAND_defconfig
+END
+M5475GFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5475GFE_defconfig
+END
+T4240QDS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4240QDS_SDCARD_defconfig
+END
+spear310_usbtty_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear310_usbtty_defconfig
+END
+smdk5420_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/smdk5420_defconfig
+END
+guruplug_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/guruplug_defconfig
+END
+rsk7203_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/rsk7203_defconfig
+END
+at91sam9g10ek_dataflash_cs0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9g10ek_dataflash_cs0_defconfig
+END
+bf537-srv1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf537-srv1_defconfig
+END
+T4160QDS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4160QDS_SECURE_BOOT_defconfig
+END
+P1020MBG-PC_36BIT_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020MBG-PC_36BIT_SDCARD_defconfig
+END
+T1040RDB_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1040RDB_SDCARD_defconfig
+END
+P2020RDB-PC_36BIT_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2020RDB-PC_36BIT_SDCARD_defconfig
+END
+apx4devkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/apx4devkit_defconfig
+END
+T1040RDB_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1040RDB_SPIFLASH_defconfig
+END
+am43xx_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am43xx_evm_defconfig
+END
+x600_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/x600_defconfig
+END
+P1025RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1025RDB_defconfig
+END
+spear320_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear320_nand_defconfig
+END
+T4240QDS_SRIO_PCIE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4240QDS_SRIO_PCIE_BOOT_defconfig
+END
+cm-bf537u_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm-bf537u_defconfig
+END
+T2080QDS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080QDS_SECURE_BOOT_defconfig
+END
+MIP405_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MIP405_defconfig
+END
+MPC837XEMDS_HOST_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC837XEMDS_HOST_defconfig
+END
+bcm28155_w1d_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm28155_w1d_defconfig
+END
+tqma6q_mba6_spi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tqma6q_mba6_spi_defconfig
+END
+lager_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/lager_defconfig
+END
+openrd_ultimate_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/openrd_ultimate_defconfig
+END
+P1021RDB-PC_36BIT_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1021RDB-PC_36BIT_SPIFLASH_defconfig
+END
+P1022DS_36BIT_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1022DS_36BIT_SPIFLASH_defconfig
+END
+ventana_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ventana_defconfig
+END
+P3041DS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P3041DS_NAND_defconfig
+END
+sbc8349_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc8349_defconfig
+END
+jetson-tk1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/jetson-tk1_defconfig
+END
+O2D300_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O2D300_defconfig
+END
+hummingboard_solo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/hummingboard_solo_defconfig
+END
+ib62x0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ib62x0_defconfig
+END
+mx7d_12x12_ddr3_arm2_TO_1_0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_12x12_ddr3_arm2_TO_1_0_defconfig
+END
+tec_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tec_defconfig
+END
+ls1021atwr_qspi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021atwr_qspi_defconfig
+END
+gr_xc3s_1500_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/gr_xc3s_1500_defconfig
+END
+lschlv2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/lschlv2_defconfig
+END
+dxr2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dxr2_defconfig
+END
+duovero_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/duovero_defconfig
+END
+T1042RDB_PI_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1042RDB_PI_SPIFLASH_defconfig
+END
+bct-brettl2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bct-brettl2_defconfig
+END
+s5pc210_universal_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/s5pc210_universal_defconfig
+END
+ls1021atwr_nor_lpuart_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021atwr_nor_lpuart_defconfig
+END
+P1024RDB_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1024RDB_SPIFLASH_defconfig
+END
+P1020RDB-PC_36BIT_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PC_36BIT_SPIFLASH_defconfig
+END
+controlcenterd_36BIT_SDCARD_DEVELOP_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/controlcenterd_36BIT_SDCARD_DEVELOP_defconfig
+END
+MPC8541CDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8541CDS_defconfig
+END
+sandbox_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sandbox_defconfig
+END
+nitrogen6s_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nitrogen6s_defconfig
+END
+T2080RDB_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080RDB_SECURE_BOOT_defconfig
+END
+mx23evk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx23evk_defconfig
+END
+P4080DS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P4080DS_defconfig
+END
+dra7xx_evm_qspiboot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dra7xx_evm_qspiboot_defconfig
+END
+spear320_usbtty_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear320_usbtty_nand_defconfig
+END
+M5282EVB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5282EVB_defconfig
+END
+peach-pit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/peach-pit_defconfig
+END
+MPC8641HPCN_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8641HPCN_defconfig
+END
+M5208EVBE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5208EVBE_defconfig
+END
+mpc5121ads_rev2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mpc5121ads_rev2_defconfig
+END
+mx6ul_14x14_evk_android_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_evk_android_defconfig
+END
+ethernut5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ethernut5_defconfig
+END
+nitrogen6q2g_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nitrogen6q2g_defconfig
+END
+O3DNT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O3DNT_defconfig
+END
+k2e_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/k2e_evm_defconfig
+END
+A20-OLinuXino-Lime_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/A20-OLinuXino-Lime_defconfig
+END
+M54451EVB_stmicro_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54451EVB_stmicro_defconfig
+END
+omap3_logic_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_logic_defconfig
+END
+at91sam9260ek_dataflash_cs1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9260ek_dataflash_cs1_defconfig
+END
+M5475BFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5475BFE_defconfig
+END
+Cubietruck_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Cubietruck_defconfig
+END
+mx28evk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx28evk_defconfig
+END
+at91sam9rlek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9rlek_nandflash_defconfig
+END
+iocon_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/iocon_defconfig
+END
+M5235EVB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5235EVB_defconfig
+END
+mx6ul_14x14_evk_ddr_eol_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_evk_ddr_eol_defconfig
+END
+wandboard_quad_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/wandboard_quad_defconfig
+END
+MigoR_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MigoR_defconfig
+END
+P1010RDB-PB_36BIT_NOR_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_36BIT_NOR_defconfig
+END
+T2080QDS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080QDS_SPIFLASH_defconfig
+END
+digsy_mtc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/digsy_mtc_defconfig
+END
+mx7d_19x19_lpddr2_arm2_TO_1_0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_19x19_lpddr2_arm2_TO_1_0_defconfig
+END
+igep0030_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/igep0030_defconfig
+END
+omap3_mvblx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_mvblx_defconfig
+END
+P2020RDB-PC_36BIT_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2020RDB-PC_36BIT_SPIFLASH_defconfig
+END
+MPC8536DS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8536DS_defconfig
+END
+integratorap_cm920t_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/integratorap_cm920t_defconfig
+END
+vct_platinum_onenand_small_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_platinum_onenand_small_defconfig
+END
+luan_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/luan_defconfig
+END
+O2MNT_O2M112_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O2MNT_O2M112_defconfig
+END
+Mini-X_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Mini-X_defconfig
+END
+at91sam9263ek_norflash_boot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9263ek_norflash_boot_defconfig
+END
+chromebook_link_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/chromebook_link_defconfig
+END
+cardhu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cardhu_defconfig
+END
+cam5200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cam5200_defconfig
+END
+M54455EVB_a66_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54455EVB_a66_defconfig
+END
+M54418TWR_serial_rmii_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54418TWR_serial_rmii_defconfig
+END
+socrates_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/socrates_defconfig
+END
+Auxtek-T004_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Auxtek-T004_defconfig
+END
+omap3_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_evm_defconfig
+END
+mx6sx_19x19_ddr3_arm2_spinor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_19x19_ddr3_arm2_spinor_defconfig
+END
+vision2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vision2_defconfig
+END
+k2l_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/k2l_evm_defconfig
+END
+M54418TWR_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54418TWR_defconfig
+END
+bcm958300k_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm958300k_defconfig
+END
+vl_ma2sc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vl_ma2sc_defconfig
+END
+mx7d_12x12_ddr3_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_12x12_ddr3_arm2_defconfig
+END
+integratorap_cm946es_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/integratorap_cm946es_defconfig
+END
+ti816x_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ti816x_evm_defconfig
+END
+P1024RDB_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1024RDB_SDCARD_defconfig
+END
+Orangepi_mini_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Orangepi_mini_defconfig
+END
+mx7d_12x12_lpddr3_arm2_qspi1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_12x12_lpddr3_arm2_qspi1_defconfig
+END
+mx7dsabresd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7dsabresd_defconfig
+END
+koelsch_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/koelsch_defconfig
+END
+P1021RDB-PC_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1021RDB-PC_NAND_defconfig
+END
+P1022DS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1022DS_NAND_defconfig
+END
+coreboot-x86_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/coreboot-x86_defconfig
+END
+davinci_dm355leopard_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/davinci_dm355leopard_defconfig
+END
+qong_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/qong_defconfig
+END
+Hyundai_A7HD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Hyundai_A7HD_defconfig
+END
+MPC837XERDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC837XERDB_defconfig
+END
+tcm-bf518_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tcm-bf518_defconfig
+END
+at91rm9200ek_ram_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91rm9200ek_ram_defconfig
+END
+sama5d4ek_spiflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d4ek_spiflash_defconfig
+END
+TQM850L_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM850L_defconfig
+END
+sunxi_Gemei_G9_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sunxi_Gemei_G9_defconfig
+END
+B4860QDS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/B4860QDS_NAND_defconfig
+END
+mx6sx_19x19_ddr3_arm2_qspi2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_19x19_ddr3_arm2_qspi2_defconfig
+END
+aria_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/aria_defconfig
+END
+P3041DS_SRIO_PCIE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P3041DS_SRIO_PCIE_BOOT_defconfig
+END
+T4240QDS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4240QDS_SECURE_BOOT_defconfig
+END
+digsy_mtc_rev5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/digsy_mtc_rev5_defconfig
+END
+pxm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pxm2_defconfig
+END
+T4160QDS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4160QDS_NAND_defconfig
+END
+sbc35_a9g20_eeprom_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc35_a9g20_eeprom_defconfig
+END
+picosom-imx6ul_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/picosom-imx6ul_defconfig
+END
+integratorcp_cm1136_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/integratorcp_cm1136_defconfig
+END
+gose_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/gose_defconfig
+END
+P1010RDB-PB_SPIFLASH_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_SPIFLASH_SECBOOT_defconfig
+END
+at91sam9263ek_dataflash_cs0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9263ek_dataflash_cs0_defconfig
+END
+BSC9132QDS_SPIFLASH_DDRCLK100_SECURE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_SPIFLASH_DDRCLK100_SECURE_defconfig
+END
+acadia_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/acadia_defconfig
+END
+P1025RDB_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1025RDB_36BIT_defconfig
+END
+a3m071_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/a3m071_defconfig
+END
+makalu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/makalu_defconfig
+END
+M5253EVBE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5253EVBE_defconfig
+END
+TQM855M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM855M_defconfig
+END
+mpc5121ads_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mpc5121ads_defconfig
+END
+davinci_sffsdr_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/davinci_sffsdr_defconfig
+END
+mx7dsabresd_TO_1_0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7dsabresd_TO_1_0_defconfig
+END
+novena_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/novena_defconfig
+END
+tuxx1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tuxx1_defconfig
+END
+r2dplus_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/r2dplus_defconfig
+END
+mx35pdk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx35pdk_defconfig
+END
+MPC8572DS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8572DS_defconfig
+END
+MPC8349ITX_LOWBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8349ITX_LOWBOOT_defconfig
+END
+Orangepi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Orangepi_defconfig
+END
+ba10_tv_box_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ba10_tv_box_defconfig
+END
+dbau1550_el_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dbau1550_el_defconfig
+END
+taihu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/taihu_defconfig
+END
+cm_t335_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm_t335_defconfig
+END
+Ippo_q8h_v1_2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Ippo_q8h_v1_2_defconfig
+END
+wandboard_dl_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/wandboard_dl_defconfig
+END
+vexpress_ca5x2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vexpress_ca5x2_defconfig
+END
+Cubieboard2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Cubieboard2_defconfig
+END
+inetspace_v2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/inetspace_v2_defconfig
+END
+mx7d_19x19_lpddr2_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_19x19_lpddr2_arm2_defconfig
+END
+mx7dsabresd_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7dsabresd_nand_defconfig
+END
+blackvme_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/blackvme_defconfig
+END
+socfpga_arria5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/socfpga_arria5_defconfig
+END
+A10-OLinuXino-Lime_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/A10-OLinuXino-Lime_defconfig
+END
+P1010RDB-PB_36BIT_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_36BIT_SPIFLASH_defconfig
+END
+P2020RDB-PC_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2020RDB-PC_NAND_defconfig
+END
+ph1_pro4_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ph1_pro4_defconfig
+END
+P1024RDB_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1024RDB_NAND_defconfig
+END
+at91sam9261ek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9261ek_nandflash_defconfig
+END
+M5485DFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5485DFE_defconfig
+END
+beaver_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/beaver_defconfig
+END
+bf533-ezkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf533-ezkit_defconfig
+END
+vexpress_aemv8a_juno_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vexpress_aemv8a_juno_defconfig
+END
+T4240QDS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4240QDS_SPIFLASH_defconfig
+END
+TQM5200S_HIGHBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM5200S_HIGHBOOT_defconfig
+END
+TWR-P1025_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TWR-P1025_defconfig
+END
+palmtreo680_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/palmtreo680_defconfig
+END
+ml507_flash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ml507_flash_defconfig
+END
+omap3_evm_quick_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_evm_quick_nand_defconfig
+END
+mx53ard_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx53ard_defconfig
+END
+tuge1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tuge1_defconfig
+END
+bcm11130_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm11130_defconfig
+END
+v5fx30teval_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/v5fx30teval_defconfig
+END
+mcx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mcx_defconfig
+END
+am335x_evm_norboot_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am335x_evm_norboot_defconfig
+END
+bg0900_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bg0900_defconfig
+END
+tny_a9260_eeprom_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tny_a9260_eeprom_defconfig
+END
+sheevaplug_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sheevaplug_defconfig
+END
+Linksprite_pcDuino3_Nano_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Linksprite_pcDuino3_Nano_defconfig
+END
+sbc8548_PCI_66_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc8548_PCI_66_defconfig
+END
+mx6sx_19x19_lpddr2_arm2_qspi2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_19x19_lpddr2_arm2_qspi2_defconfig
+END
+work_92105_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/work_92105_defconfig
+END
+T2080RDB_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080RDB_SDCARD_defconfig
+END
+igep0020_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/igep0020_nand_defconfig
+END
+cm_t35_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm_t35_defconfig
+END
+spear300_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear300_defconfig
+END
+sbc8548_PCI_33_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sbc8548_PCI_33_defconfig
+END
+mx53smd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx53smd_defconfig
+END
+pr1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pr1_defconfig
+END
+ap_sh4a_4a_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ap_sh4a_4a_defconfig
+END
+yucca_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/yucca_defconfig
+END
+bf533-stamp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf533-stamp_defconfig
+END
+bf537-stamp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf537-stamp_defconfig
+END
+spear310_usbtty_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear310_usbtty_nand_defconfig
+END
+CSQ_CS908_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/CSQ_CS908_defconfig
+END
+a4m2k_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/a4m2k_defconfig
+END
+mx6sx_14x14_lpddr2_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_14x14_lpddr2_arm2_defconfig
+END
+socfpga_cyclone5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/socfpga_cyclone5_defconfig
+END
+T2080RDB_SRIO_PCIE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2080RDB_SRIO_PCIE_BOOT_defconfig
+END
+r7-tv-dongle_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/r7-tv-dongle_defconfig
+END
+P1010RDB-PB_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_NAND_defconfig
+END
+omap3_overo_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_overo_defconfig
+END
+ms7750se_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ms7750se_defconfig
+END
+ls2085a_simu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls2085a_simu_defconfig
+END
+grasshopper_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/grasshopper_defconfig
+END
+P1010RDB-PA_SPIFLASH_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_SPIFLASH_SECBOOT_defconfig
+END
+pdm360ng_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pdm360ng_defconfig
+END
+P1010RDB-PB_36BIT_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_36BIT_NAND_defconfig
+END
+mx53evk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx53evk_defconfig
+END
+ml507_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ml507_defconfig
+END
+arches_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/arches_defconfig
+END
+TQM5200_B_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM5200_B_defconfig
+END
+mx28evk_auart_console_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx28evk_auart_console_defconfig
+END
+s5p_goni_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/s5p_goni_defconfig
+END
+d2net_v2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/d2net_v2_defconfig
+END
+P1020RDB-PD_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PD_SPIFLASH_defconfig
+END
+ls1021aqds_qspi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021aqds_qspi_defconfig
+END
+vexpress_ca9x4_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vexpress_ca9x4_defconfig
+END
+atstk1006_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/atstk1006_defconfig
+END
+vct_platinumavc_onenand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_platinumavc_onenand_defconfig
+END
+glacier_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/glacier_defconfig
+END
+T2081QDS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2081QDS_SDCARD_defconfig
+END
+spear300_usbtty_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear300_usbtty_defconfig
+END
+BSC9132QDS_NAND_DDRCLK133_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_NAND_DDRCLK133_defconfig
+END
+polaris_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/polaris_defconfig
+END
+T1042RDB_PI_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1042RDB_PI_SDCARD_defconfig
+END
+TQM823M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM823M_defconfig
+END
+PIP405_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/PIP405_defconfig
+END
+pm9g45_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pm9g45_defconfig
+END
+vct_platinumavc_small_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_platinumavc_small_defconfig
+END
+at91sam9n12ek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9n12ek_nandflash_defconfig
+END
+kmnusa_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmnusa_defconfig
+END
+Cubieboard_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Cubieboard_defconfig
+END
+M52277EVB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M52277EVB_defconfig
+END
+omap4_sdp4430_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap4_sdp4430_defconfig
+END
+whistler_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/whistler_defconfig
+END
+tx25_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tx25_defconfig
+END
+BSC9132QDS_NAND_DDRCLK100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_NAND_DDRCLK100_defconfig
+END
+pcm051_rev1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pcm051_rev1_defconfig
+END
+mx7d_12x12_lpddr3_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_12x12_lpddr3_arm2_defconfig
+END
+nhk8815_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nhk8815_defconfig
+END
+mx7d_12x12_lpddr3_arm2_TO_1_0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_12x12_lpddr3_arm2_TO_1_0_defconfig
+END
+gdppc440etx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/gdppc440etx_defconfig
+END
+enbw_cmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/enbw_cmc_defconfig
+END
+P5020DS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5020DS_SDCARD_defconfig
+END
+qemu-ppce500_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/qemu-ppce500_defconfig
+END
+taurus_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/taurus_defconfig
+END
+origen_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/origen_defconfig
+END
+mx7dsabresdandroid_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7dsabresdandroid_defconfig
+END
+yellowstone_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/yellowstone_defconfig
+END
+atstk1003_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/atstk1003_defconfig
+END
+venice2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/venice2_defconfig
+END
+vct_premium_onenand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_premium_onenand_defconfig
+END
+scb9328_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/scb9328_defconfig
+END
+omap3_sdp3430_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_sdp3430_defconfig
+END
+M5475CFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5475CFE_defconfig
+END
+bcm911360k_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm911360k_defconfig
+END
+M52277EVB_stmicro_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M52277EVB_stmicro_defconfig
+END
+cm_t3517_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm_t3517_defconfig
+END
+cmi_mpc5xx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cmi_mpc5xx_defconfig
+END
+P5020DS_SRIO_PCIE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5020DS_SRIO_PCIE_BOOT_defconfig
+END
+v38b_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/v38b_defconfig
+END
+socfpga_socrates_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/socfpga_socrates_defconfig
+END
+cpuat91_ram_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpuat91_ram_defconfig
+END
+lcd4_lwmon5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/lcd4_lwmon5_defconfig
+END
+P5040DS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5040DS_SECURE_BOOT_defconfig
+END
+davinci_dm365evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/davinci_dm365evm_defconfig
+END
+haleakala_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/haleakala_defconfig
+END
+mx6sx_17x17_arm2_spinor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_17x17_arm2_spinor_defconfig
+END
+BSC9132QDS_SPIFLASH_DDRCLK133_SECURE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/BSC9132QDS_SPIFLASH_DDRCLK133_SECURE_defconfig
+END
+tricorder_flash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tricorder_flash_defconfig
+END
+atngw100mkii_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/atngw100mkii_defconfig
+END
+M5373EVB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5373EVB_defconfig
+END
+at91sam9x5ek_dataflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9x5ek_dataflash_defconfig
+END
+mx6sx_17x17_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_17x17_arm2_defconfig
+END
+dbau1500_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dbau1500_defconfig
+END
+C29XPCIE_NOR_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/C29XPCIE_NOR_SECBOOT_defconfig
+END
+P4080DS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P4080DS_SDCARD_defconfig
+END
+imx27lite_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/imx27lite_defconfig
+END
+MPC8555CDS_legacy_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8555CDS_legacy_defconfig
+END
+mx7d_19x19_ddr3_arm2_TO_1_0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_19x19_ddr3_arm2_TO_1_0_defconfig
+END
+qemu_mips64el_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/qemu_mips64el_defconfig
+END
+TQM5200S_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM5200S_defconfig
+END
+M54418TWR_nand_mii_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54418TWR_nand_mii_defconfig
+END
+vf610twr_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vf610twr_defconfig
+END
+at91sam9261ek_dataflash_cs3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9261ek_dataflash_cs3_defconfig
+END
+mx7dsabresd_qspi1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7dsabresd_qspi1_defconfig
+END
+mk802_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mk802_defconfig
+END
+P2020RDB-PC_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2020RDB-PC_36BIT_defconfig
+END
+mgcoge3ne_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mgcoge3ne_defconfig
+END
+MPC832XEMDS_SLAVE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC832XEMDS_SLAVE_defconfig
+END
+P1020MBG-PC_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020MBG-PC_SDCARD_defconfig
+END
+balloon3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/balloon3_defconfig
+END
+MPC8641HPCN_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8641HPCN_36BIT_defconfig
+END
+dra7xx_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dra7xx_evm_defconfig
+END
+imx31_phycore_eet_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/imx31_phycore_eet_defconfig
+END
+draco_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/draco_defconfig
+END
+M54455EVB_intel_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54455EVB_intel_defconfig
+END
+pm9263_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pm9263_defconfig
+END
+mx7d_12x12_lpddr3_arm2_epdc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_12x12_lpddr3_arm2_epdc_defconfig
+END
+B4860QDS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/B4860QDS_SECURE_BOOT_defconfig
+END
+warp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/warp_defconfig
+END
+Bananapi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Bananapi_defconfig
+END
+db-mv784mp-gp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/db-mv784mp-gp_defconfig
+END
+fx12mm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/fx12mm_defconfig
+END
+TQM860L_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM860L_defconfig
+END
+espt_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/espt_defconfig
+END
+astro_mcf5373l_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/astro_mcf5373l_defconfig
+END
+jornada_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/jornada_defconfig
+END
+TQM862M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM862M_defconfig
+END
+vme8349_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vme8349_defconfig
+END
+ibf-dsp561_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ibf-dsp561_defconfig
+END
+tny_a9g20_eeprom_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tny_a9g20_eeprom_defconfig
+END
+mx6ul_14x14_evk_ddr_eol_qspi1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_evk_ddr_eol_qspi1_defconfig
+END
+mx7d_19x19_ddr3_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_19x19_ddr3_arm2_defconfig
+END
+xilinx_zynqmp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xilinx_zynqmp_defconfig
+END
+kmcoge5un_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmcoge5un_defconfig
+END
+at91sam9261ek_dataflash_cs0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9261ek_dataflash_cs0_defconfig
+END
+at91sam9g20ek_2mmc_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9g20ek_2mmc_nandflash_defconfig
+END
+at91sam9260ek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9260ek_nandflash_defconfig
+END
+cpu9G20_128M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpu9G20_128M_defconfig
+END
+spear600_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear600_nand_defconfig
+END
+at91sam9xeek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9xeek_nandflash_defconfig
+END
+netspace_v2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/netspace_v2_defconfig
+END
+blackstamp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/blackstamp_defconfig
+END
+at91sam9m10g45ek_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9m10g45ek_mmc_defconfig
+END
+am3517_evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/am3517_evm_defconfig
+END
+mx31pdk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx31pdk_defconfig
+END
+TQM834x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM834x_defconfig
+END
+stxgp3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/stxgp3_defconfig
+END
+at91sam9263ek_dataflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9263ek_dataflash_defconfig
+END
+M54418TWR_serial_mii_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54418TWR_serial_mii_defconfig
+END
+pcm030_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pcm030_defconfig
+END
+T1024QDS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024QDS_SDCARD_defconfig
+END
+P1024RDB_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1024RDB_36BIT_defconfig
+END
+Wexler_TAB7200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Wexler_TAB7200_defconfig
+END
+spear300_usbtty_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear300_usbtty_nand_defconfig
+END
+xfi3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xfi3_defconfig
+END
+Wits_Pro_A20_DKT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Wits_Pro_A20_DKT_defconfig
+END
+dbau1000_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dbau1000_defconfig
+END
+alt_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/alt_defconfig
+END
+io64_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/io64_defconfig
+END
+MPC837XEMDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC837XEMDS_defconfig
+END
+intip_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/intip_defconfig
+END
+Linksprite_pcDuino3_fdt_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Linksprite_pcDuino3_fdt_defconfig
+END
+xpedite517x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xpedite517x_defconfig
+END
+P5040DS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5040DS_SPIFLASH_defconfig
+END
+M54455EVB_stm33_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54455EVB_stm33_defconfig
+END
+tny_a9g20_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tny_a9g20_nandflash_defconfig
+END
+VOM405_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/VOM405_defconfig
+END
+P4080DS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P4080DS_SPIFLASH_defconfig
+END
+mx6sx_19x19_ddr3_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_19x19_ddr3_arm2_defconfig
+END
+sama5d4_xplained_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d4_xplained_nandflash_defconfig
+END
+M5485EFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5485EFE_defconfig
+END
+xpedite1000_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xpedite1000_defconfig
+END
+meesc_dataflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/meesc_dataflash_defconfig
+END
+nas220_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/nas220_defconfig
+END
+arndale_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/arndale_defconfig
+END
+sh7785lcr_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sh7785lcr_defconfig
+END
+sh7785lcr_32bit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sh7785lcr_32bit_defconfig
+END
+sc_sps_1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sc_sps_1_defconfig
+END
+eb_cpux9k2_ram_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/eb_cpux9k2_ram_defconfig
+END
+ebony_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ebony_defconfig
+END
+mx6ul_14x14_lpddr2_arm2_eimnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_lpddr2_arm2_eimnor_defconfig
+END
+mx6sx_17x17_arm2_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_17x17_arm2_nand_defconfig
+END
+davinci_dvevm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/davinci_dvevm_defconfig
+END
+palmtc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/palmtc_defconfig
+END
+eco5pk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/eco5pk_defconfig
+END
+mv88f6281gtw_ge_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mv88f6281gtw_ge_defconfig
+END
+yosemite_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/yosemite_defconfig
+END
+qemu_mips_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/qemu_mips_defconfig
+END
+mx7d_12x12_lpddr3_arm2_spinor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx7d_12x12_lpddr3_arm2_spinor_defconfig
+END
+M54455EVB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M54455EVB_defconfig
+END
+dra7xx_evm_uart3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dra7xx_evm_uart3_defconfig
+END
+T2081QDS_SRIO_PCIE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T2081QDS_SRIO_PCIE_BOOT_defconfig
+END
+MPC8548CDS_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8548CDS_36BIT_defconfig
+END
+A20-OLinuXino-Lime2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/A20-OLinuXino-Lime2_defconfig
+END
+P1010RDB-PB_36BIT_NAND_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_36BIT_NAND_SECBOOT_defconfig
+END
+tseries_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tseries_nand_defconfig
+END
+C29XPCIE_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/C29XPCIE_SPIFLASH_defconfig
+END
+mpr2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mpr2_defconfig
+END
+cm-bf561_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cm-bf561_defconfig
+END
+da830evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/da830evm_defconfig
+END
+mx6sx_19x19_lpddr2_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_19x19_lpddr2_arm2_defconfig
+END
+snapper9260_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/snapper9260_defconfig
+END
+gwventana_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/gwventana_defconfig
+END
+T1042RDB_PI_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1042RDB_PI_defconfig
+END
+ph1_ld4_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ph1_ld4_defconfig
+END
+pepper_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pepper_defconfig
+END
+MPC8349ITX_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8349ITX_defconfig
+END
+vexpress_aemv8a_semi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vexpress_aemv8a_semi_defconfig
+END
+mx51_efikamx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx51_efikamx_defconfig
+END
+pb1000_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pb1000_defconfig
+END
+T1024QDS_D4_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1024QDS_D4_SECURE_BOOT_defconfig
+END
+at91sam9xeek_dataflash_cs1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9xeek_dataflash_cs1_defconfig
+END
+MPC8313ERDB_NAND_66_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8313ERDB_NAND_66_defconfig
+END
+smdkv310_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/smdkv310_defconfig
+END
+dockstar_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/dockstar_defconfig
+END
+xpedite550x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xpedite550x_defconfig
+END
+zmx25_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zmx25_defconfig
+END
+openrd_client_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/openrd_client_defconfig
+END
+igep0032_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/igep0032_defconfig
+END
+goflexhome_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/goflexhome_defconfig
+END
+P5040DS_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5040DS_NAND_defconfig
+END
+MPC8313ERDB_NAND_33_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8313ERDB_NAND_33_defconfig
+END
+wireless_space_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/wireless_space_defconfig
+END
+cpu9260_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpu9260_nand_defconfig
+END
+MK808C_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MK808C_defconfig
+END
+charon_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/charon_defconfig
+END
+adp-ag102_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/adp-ag102_defconfig
+END
+portl2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/portl2_defconfig
+END
+kmopti2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/kmopti2_defconfig
+END
+u8500_href_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/u8500_href_defconfig
+END
+igep0020_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/igep0020_defconfig
+END
+T4160QDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4160QDS_defconfig
+END
+versatileqemu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/versatileqemu_defconfig
+END
+PLU405_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/PLU405_defconfig
+END
+T1042RDB_PI_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1042RDB_PI_NAND_defconfig
+END
+P1020RDB-PD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PD_defconfig
+END
+at91sam9260ek_dataflash_cs0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/at91sam9260ek_dataflash_cs0_defconfig
+END
+MPC8536DS_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8536DS_36BIT_defconfig
+END
+v5fx30teval_flash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/v5fx30teval_flash_defconfig
+END
+aristainetos_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/aristainetos_defconfig
+END
+cpu9260_nand_128M_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/cpu9260_nand_128M_defconfig
+END
+P1025RDB_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1025RDB_SDCARD_defconfig
+END
+otc570_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/otc570_defconfig
+END
+openrd_base_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/openrd_base_defconfig
+END
+bf538f-ezkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf538f-ezkit_defconfig
+END
+sycamore_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sycamore_defconfig
+END
+P1020RDB-PC_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PC_SPIFLASH_defconfig
+END
+r7780mp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/r7780mp_defconfig
+END
+mk802_a10s_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mk802_a10s_defconfig
+END
+vct_premium_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vct_premium_defconfig
+END
+mx25pdk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx25pdk_defconfig
+END
+mx23_olinuxino_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx23_olinuxino_defconfig
+END
+csb272_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/csb272_defconfig
+END
+vl_ma2sc_ram_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/vl_ma2sc_ram_defconfig
+END
+T4160RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4160RDB_defconfig
+END
+MSI_Primo73_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MSI_Primo73_defconfig
+END
+harmony_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/harmony_defconfig
+END
+sama5d4_xplained_mmc_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d4_xplained_mmc_defconfig
+END
+Mele_I7_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Mele_I7_defconfig
+END
+O2D_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/O2D_defconfig
+END
+peach-pi_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/peach-pi_defconfig
+END
+igep0030_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/igep0030_nand_defconfig
+END
+Mele_M9_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Mele_M9_defconfig
+END
+hammerhead_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/hammerhead_defconfig
+END
+sama5d4ek_nandflash_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/sama5d4ek_nandflash_defconfig
+END
+M5475DFE_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/M5475DFE_defconfig
+END
+munices_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/munices_defconfig
+END
+P1010RDB-PB_36BIT_SPIFLASH_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_36BIT_SPIFLASH_SECBOOT_defconfig
+END
+lp8x4x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/lp8x4x_defconfig
+END
+mx6ul_14x14_ddr3_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_ddr3_arm2_defconfig
+END
+inka4x0_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/inka4x0_defconfig
+END
+udoo_quad_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/udoo_quad_defconfig
+END
+davinci_sonata_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/davinci_sonata_defconfig
+END
+mx6sx_17x17wp_arm2_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6sx_17x17wp_arm2_defconfig
+END
+jesurun_q5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/jesurun_q5_defconfig
+END
+ls1021atwr_sdcard_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021atwr_sdcard_defconfig
+END
+gr_cpci_ax2000_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/gr_cpci_ax2000_defconfig
+END
+birdland_bav335b_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/birdland_bav335b_defconfig
+END
+forfun_q88db_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/forfun_q88db_defconfig
+END
+bf561-ezkit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf561-ezkit_defconfig
+END
+spear600_usbtty_nand_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear600_usbtty_nand_defconfig
+END
+bcm958305k_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bcm958305k_defconfig
+END
+bf527-ad7160-eval_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf527-ad7160-eval_defconfig
+END
+P1021RDB-PC_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1021RDB-PC_SDCARD_defconfig
+END
+P1022DS_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1022DS_SDCARD_defconfig
+END
+axs101_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/axs101_defconfig
+END
+eb_cpu5282_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/eb_cpu5282_defconfig
+END
+MPC832XEMDS_ATM_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC832XEMDS_ATM_defconfig
+END
+platinum_picon_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/platinum_picon_defconfig
+END
+smdkc100_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/smdkc100_defconfig
+END
+omap3_pandora_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_pandora_defconfig
+END
+imx31_litekit_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/imx31_litekit_defconfig
+END
+P1010RDB-PA_NAND_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PA_NAND_defconfig
+END
+MPC8540ADS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8540ADS_defconfig
+END
+tricorder_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/tricorder_defconfig
+END
+xilinx-ppc405-generic_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/xilinx-ppc405-generic_defconfig
+END
+Ippo_q8h_v5_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Ippo_q8h_v5_defconfig
+END
+MPC8548CDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8548CDS_defconfig
+END
+MPC8572DS_36BIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MPC8572DS_36BIT_defconfig
+END
+katmai_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/katmai_defconfig
+END
+amcore_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/amcore_defconfig
+END
+qemu_mips64_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/qemu_mips64_defconfig
+END
+ls1021aqds_sdcard_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021aqds_sdcard_defconfig
+END
+beagle_x15_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/beagle_x15_defconfig
+END
+TQM855L_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/TQM855L_defconfig
+END
+T1040QDS_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1040QDS_defconfig
+END
+zynq_zc770_xm013_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zynq_zc770_xm013_defconfig
+END
+magnesium_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/magnesium_defconfig
+END
+P5020DS_SECURE_BOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P5020DS_SECURE_BOOT_defconfig
+END
+spear310_pnor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/spear310_pnor_defconfig
+END
+davinci_dm6467evm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/davinci_dm6467evm_defconfig
+END
+mx6ul_14x14_evk_qspi1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_evk_qspi1_defconfig
+END
+km_kirkwood_128m16_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/km_kirkwood_128m16_defconfig
+END
+Bananapro_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Bananapro_defconfig
+END
+omap3_zoom1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_zoom1_defconfig
+END
+ls2085a_emu_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls2085a_emu_defconfig
+END
+armadillo-800eva_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/armadillo-800eva_defconfig
+END
+P1010RDB-PB_NAND_SECBOOT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1010RDB-PB_NAND_SECBOOT_defconfig
+END
+ip04_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ip04_defconfig
+END
+davinci_dm6467Tevm_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/davinci_dm6467Tevm_defconfig
+END
+pxa255_idp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/pxa255_idp_defconfig
+END
+Mele_M3_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Mele_M3_defconfig
+END
+mx6ul_14x14_evk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_evk_defconfig
+END
+integratorcp_cm926ejs_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/integratorcp_cm926ejs_defconfig
+END
+omap3_ha_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/omap3_ha_defconfig
+END
+bf526-ezbrd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/bf526-ezbrd_defconfig
+END
+icon_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/icon_defconfig
+END
+paz00_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/paz00_defconfig
+END
+ls1021atwr_nor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021atwr_nor_defconfig
+END
+Ampe_A76_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/Ampe_A76_defconfig
+END
+T1040RDB_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T1040RDB_defconfig
+END
+iconnect_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/iconnect_defconfig
+END
+MIP405T_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/MIP405T_defconfig
+END
+mx6ul_14x14_ddr3_arm2_spinor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/mx6ul_14x14_ddr3_arm2_spinor_defconfig
+END
+ls1021aqds_nor_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/ls1021aqds_nor_defconfig
+END
+marsboard_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/marsboard_defconfig
+END
+a4m072_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/a4m072_defconfig
+END
+P2020RDB-PC_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P2020RDB-PC_SDCARD_defconfig
+END
+T4160QDS_SPIFLASH_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/T4160QDS_SPIFLASH_defconfig
+END
+km_kirkwood_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/km_kirkwood_defconfig
+END
+zynq_zc770_xm010_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/zynq_zc770_xm010_defconfig
+END
+P1020RDB-PC_36BIT_SDCARD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/P1020RDB-PC_36BIT_SDCARD_defconfig
+END
+crownbay_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/I.MX6_u-boot/!svn/ver/2/trunk/u-boot-android-2015.04-imx/configs/bak/crownbay_defconfig
+END

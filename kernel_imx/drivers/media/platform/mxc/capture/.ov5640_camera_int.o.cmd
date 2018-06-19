@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mxc/capture/ov5640_camera_int.o := /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/media/platform/mxc/capture/ov5640_camera_int.o drivers/media/platform/mxc/capture/ov5640.module 

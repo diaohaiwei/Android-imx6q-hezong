@@ -1,0 +1,1 @@
+cmd_fs/quota/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o fs/quota/built-in.o fs/quota/dquot.o fs/quota/quota.o fs/quota/kqid.o fs/quota/netlink.o 

@@ -1,0 +1,70 @@
+10
+
+dir
+3
+http://192.168.1.8/svn/I.MX6_u-boot/trunk/u-boot-android-2015.04-imx/arch/bak
+http://192.168.1.8/svn/I.MX6_u-boot
+
+
+
+2016-07-04T07:43:38.434469Z
+2
+Arthur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f6bd7fe3-b95f-5246-83b4-222a0ba94597
+
+avr32
+dir
+
+sandbox
+dir
+
+powerpc
+dir
+
+openrisc
+dir
+
+arc
+dir
+
+m68k
+dir
+
+x86
+dir
+
+microblaze
+dir
+
+mips
+dir
+
+sparc
+dir
+
+blackfin
+dir
+
+nds32
+dir
+
+nios2
+dir
+
+sh
+dir
+

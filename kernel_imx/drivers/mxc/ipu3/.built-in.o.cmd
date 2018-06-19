@@ -1,0 +1,1 @@
+cmd_drivers/mxc/ipu3/built-in.o :=  /opt/EmbedSky/TQIMX6/android-6.0.1-2.1.0/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/mxc/ipu3/built-in.o drivers/mxc/ipu3/mxc_ipu.o drivers/mxc/ipu3/prg.o drivers/mxc/ipu3/pre.o 
