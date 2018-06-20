@@ -1,0 +1,5 @@
+device/asus/flo/ commit 9c2acf0159366ba451476ca7051a671098163de4
+frameworks/base/ commit b980e0d1f7f38fa441651f5afe99d18dda9d5cf3
+kernel/msm/ commit 9147cbe5fc669bf2127de5ca30b354a1ff87627d
+system/bt/ commit 3bd0eafd37df7828c58bceef8e9c669376885210
+vendor/ commit e7b79621dc5026b633a338e1293003cc0ff1b18b

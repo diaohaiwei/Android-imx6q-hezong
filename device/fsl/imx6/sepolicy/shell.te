@@ -1,0 +1,5 @@
+allow shell procrank_exec:file { getattr };
+allow shell proc_uid_cputime_showstat:file { getattr read open };
+allow shell proc_uid_cputime_removeuid:file { getattr read open };
+allow shell unlabeled:lnk_file { read };
+allow shell tty_device:chr_file rw_file_perms;
